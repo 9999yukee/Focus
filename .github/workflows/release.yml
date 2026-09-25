@@ -1,0 +1,56 @@
+name: Release Focus
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10.34.5
+
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: x86_64-pc-windows-msvc
+
+      - name: Build Focus package
+        run: pnpm.cmd install --frozen-lockfile; node scripts/build-desktop.mjs
+
+      - name: Build Windows installer
+        shell: powershell
+        run: powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/build-installer.ps1
+
+      - name: Create checksums
+        shell: powershell
+        run: |
+          $zip = 'artifacts/desktop/Focus-0.2.0-DiscordDesktop.zip'
+          $setup = 'artifacts/desktop/Focus-0.2.0-Setup.exe'
+          (Get-FileHash $zip -Algorithm SHA256).Hash.ToLowerInvariant() + "  $([IO.Path]::GetFileName($zip))" | Set-Content "$zip.sha256" -Encoding ASCII
+          (Get-FileHash $setup -Algorithm SHA256).Hash.ToLowerInvariant() + "  $([IO.Path]::GetFileName($setup))" | Set-Content "$setup.sha256" -Encoding ASCII
+
+      - name: Publish GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          generate_release_notes: true
+          files: |
+            artifacts/desktop/Focus-0.2.0-DiscordDesktop.zip
+            artifacts/desktop/Focus-0.2.0-DiscordDesktop.zip.sha256
+            artifacts/desktop/Focus-0.2.0-Setup.exe
+            artifacts/desktop/Focus-0.2.0-Setup.exe.sha256
