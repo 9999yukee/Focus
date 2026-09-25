@@ -34,8 +34,8 @@ function ProfileEntry() {
     </div>{failed && <p role="alert">Le profil n’a pas pu être ouvert. Réessayez dans un instant.</p>}</div>;
 }
 function Updater() {
-    const [status, setStatus] = React.useState<'idle' | 'checking' | 'available' | 'current' | 'error'>('idle');
-    const [release, setRelease] = React.useState<{ version: string; url: string }>();
+    const [status, setStatus] = React.useState<'idle' | 'checking' | 'available' | 'updating' | 'current' | 'error'>('idle');
+    const [release, setRelease] = React.useState<{ version: string; url: string; checksumUrl: string }>();
     const check = async () => {
         setStatus('checking');
         try {
@@ -45,16 +45,24 @@ function Updater() {
             const version = (data.tag_name ?? '').replace(/^v/, '');
             const asset = data.assets?.find(item => /^Focus-\d+\.\d+\.\d+-Setup\.exe$/.test(item.name ?? '')
                 && (item.browser_download_url ?? '').startsWith('https://github.com/9999yukee/Focus/releases/download/'));
-            if (!/^\d+\.\d+\.\d+$/.test(version) || !asset?.browser_download_url) throw new Error('invalid release');
+            const checksum = data.assets?.find(item => item.name === `${asset?.name}.sha256`);
+            if (!/^\d+\.\d+\.\d+$/.test(version) || !asset?.browser_download_url || !checksum?.browser_download_url) throw new Error('invalid release');
             const newer = version.localeCompare(focusVersion, undefined, { numeric: true }) > 0;
-            setRelease({ version, url: asset.browser_download_url });
+            setRelease({ version, url: asset.browser_download_url, checksumUrl: checksum.browser_download_url });
             setStatus(newer ? 'available' : 'current');
         } catch { setStatus('error'); }
     };
+    const update = async () => {
+        if (!release) return;
+        setStatus('updating');
+        try { await Native.downloadAndInstall(release.url, release.checksumUrl); }
+        catch { setStatus('error'); }
+    };
     return <div className="focus-row"><span>Mises à jour<small>{status === 'available' ? `Focus ${release?.version} est disponible.` :
-        status === 'current' ? 'Vous utilisez la dernière version.' : status === 'error' ? 'Vérification indisponible.' : 'Vérifier les releases officielles GitHub.'}</small></span>
-        {status === 'available' ? <button type="button" onClick={() => window.open(release!.url, '_blank', 'noopener,noreferrer')}>Télécharger</button> :
-            <button type="button" disabled={status === 'checking'} onClick={check}>{status === 'checking' ? 'Vérification…' : 'Vérifier'}</button>}
+        status === 'updating' ? 'Téléchargement et installation…' : status === 'current' ? 'Vous utilisez la dernière version.' :
+            status === 'error' ? 'Mise à jour indisponible ou invalide.' : 'Vérifier les releases officielles GitHub.'}</small></span>
+        {status === 'available' ? <button type="button" onClick={update}>Mettre à jour</button> :
+            <button type="button" disabled={status === 'checking' || status === 'updating'} onClick={check}>{status === 'checking' ? 'Vérification…' : status === 'updating' ? 'Installation…' : 'Vérifier'}</button>}
     </div>;
 }
 function preferences(): FocusPreferences { return normalize(settings.store.preferences); }
