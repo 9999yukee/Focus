@@ -15,6 +15,8 @@ New-Item -ItemType Directory -Path $output | Out-Null
 
 $manifest = Join-Path $workspace 'installer\Cargo.toml'
 $env:FOCUS_PACKAGE = $archive
+cargo clean --manifest-path $manifest --target x86_64-pc-windows-msvc
+if ($LASTEXITCODE -ne 0) { throw 'Le nettoyage de l installeur a echoue.' }
 node (Join-Path $workspace 'scripts\build-installer.mjs') build --release --manifest-path $manifest --target x86_64-pc-windows-msvc
 if ($LASTEXITCODE -ne 0) { throw 'La compilation de l installeur a echoue.' }
 

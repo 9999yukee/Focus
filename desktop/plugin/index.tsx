@@ -114,7 +114,7 @@ function Appearance() {
         <Toggle name="Afficher les aperçus de liens" value={pref.showEmbeds} onChange={showEmbeds => save({ showEmbeds })} />
         <Toggle name="Afficher les autocollants" value={pref.showStickers} onChange={showStickers => save({ showStickers })} />
         <Toggle name="Masquer les promotions" detail="Nitro, boutique, découverte, quêtes et offres de boosts." value={pref.hidePromotions} onChange={hidePromotions => save({ hidePromotions })} />
-        <Toggle name="Paramètres simplifiés" detail="Six catégories. Fermez puis rouvrez les paramètres après ce changement." value={pref.compactSettings} onChange={compactSettings => save({ compactSettings })} />
+        <Toggle name="Paramètres simplifiés" detail="Réduit la navigation Discord à six catégories Focus." value={pref.compactSettings} onChange={compactSettings => save({ compactSettings })} />
         <HiddenItems />
     </div>;
 }

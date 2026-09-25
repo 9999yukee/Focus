@@ -6,6 +6,10 @@ const item = (key: string): LayoutNode => ({ key, type: 2, buildLayout: () => [{
 const section = (key: string, children: LayoutNode[]): LayoutNode => ({ key, type: 1, buildLayout: () => children });
 const extra = { appearance: item('focus_appearance'), performance: item('focus_performance') };
 describe('Focus desktop preferences and native settings layout', () => {
+    it('keeps the native Discord settings layout enabled by default', () => {
+        expect(normalize(undefined).compactSettings).toBe(false);
+        expect(normalize(undefined).theme).toBe('discord');
+    });
     it('rejects invalid identities and unsafe selector content, deduplicates by kind', () => {
         const value = normalize({ hidden: [
             { id: '12345678901234567', kind: 'server', label: 'Example\u0000' },

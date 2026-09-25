@@ -22,7 +22,7 @@ export const defaults: FocusPreferences = {
     theme: 'discord', density: 'compact', reduceMotion: true, showAvatars: true,
     animatedAvatars: false, animatedEmoji: false, showEmbeds: true, showStickers: true,
     pauseOffscreenMedia: true, autoplayVideo: false, backgroundMode: 'minimum',
-    hidePromotions: true, compactSettings: true, hidden: []
+    hidePromotions: true, compactSettings: false, hidden: []
 };
 export function validItem(item: HiddenItem): boolean {
     return /^\d{17,20}$/.test(item.id) && ['server', 'conversation', 'friend'].includes(item.kind);
