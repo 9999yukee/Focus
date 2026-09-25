@@ -1,0 +1,1918 @@
+{
+  "source": "https://discord.com/assets/web.352b0482a8b3b388.js",
+  "date": "2026-09-23",
+  "keys": [
+    {
+      "symbol": "PROFILE_SECTION",
+      "key": "profile_section"
+    },
+    {
+      "symbol": "PROFILE_SIDEBAR_ITEM",
+      "key": "profile_sidebar_item"
+    },
+    {
+      "symbol": "PROFILE_SIDEBAR_ITEM_WYSIWYG",
+      "key": "profile_sidebar_item_wysiwyg"
+    },
+    {
+      "symbol": "PROFILE_PANEL",
+      "key": "profile_panel"
+    },
+    {
+      "symbol": "PROFILE_CATEGORY",
+      "key": "profile_category"
+    },
+    {
+      "symbol": "PROFILE_SETTING",
+      "key": "profile_setting"
+    },
+    {
+      "symbol": "USER_SECTION",
+      "key": "user_section"
+    },
+    {
+      "symbol": "ACCOUNT_SIDEBAR_ITEM",
+      "key": "account_sidebar_item"
+    },
+    {
+      "symbol": "ACCOUNT_PANEL",
+      "key": "account_panel"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_CATEGORY",
+      "key": "account_info_category"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_USERNAME_SETTING",
+      "key": "account_info_username_setting"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_CLAIM_ACCOUNT_SETTING",
+      "key": "account_info_claim_account_setting"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_EMAIL_SETTING",
+      "key": "account_info_email_setting"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_PHONE_SETTING",
+      "key": "account_info_phone_setting"
+    },
+    {
+      "symbol": "ACCOUNT_PASSWORD_SECURITY_CATEGORY",
+      "key": "account_password_security_category"
+    },
+    {
+      "symbol": "ACCOUNT_CHANGE_PASSWORD_SETTING",
+      "key": "account_change_password_setting"
+    },
+    {
+      "symbol": "ACCOUNT_MFA_NESTED_PANEL",
+      "key": "account_mfa_nested_panel"
+    },
+    {
+      "symbol": "MULTI_FACTOR_AUTHENTICATION",
+      "key": "multi_factor_authentication"
+    },
+    {
+      "symbol": "SECURITY_KEYS_CATEGORY",
+      "key": "security_keys_category"
+    },
+    {
+      "symbol": "SECURITY_KEYS_LIST",
+      "key": "security_keys_list"
+    },
+    {
+      "symbol": "AUTHENTICATOR_APP_CATEGORY",
+      "key": "authenticator_app_category"
+    },
+    {
+      "symbol": "AUTHENTICATOR_APP_DISABLE_BUTTON",
+      "key": "authenticator_app_disable_button"
+    },
+    {
+      "symbol": "SMS_AUTH_CATEGORY",
+      "key": "sms_auth_category"
+    },
+    {
+      "symbol": "SMS_AUTH_DISABLE_BUTTON",
+      "key": "sms_auth_disable_button"
+    },
+    {
+      "symbol": "BACKUP_CODES_CATEGORY",
+      "key": "backup_codes_category"
+    },
+    {
+      "symbol": "BACKUP_CODES_SETTING",
+      "key": "backup_codes_setting"
+    },
+    {
+      "symbol": "ACCOUNT_SESSIONS_NESTED_PANEL",
+      "key": "account_sessions_nested_panel"
+    },
+    {
+      "symbol": "SESSIONS_PANEL",
+      "key": "sessions_panel"
+    },
+    {
+      "symbol": "SESSIONS_CATEGORY",
+      "key": "sessions_sessions_category"
+    },
+    {
+      "symbol": "SESSIONS_CURRENT_SESSION_SETTING",
+      "key": "sessions_current_session_setting"
+    },
+    {
+      "symbol": "SESSIONS_OTHER_SESSIONS_SETTING",
+      "key": "sessions_other_sessions_setting"
+    },
+    {
+      "symbol": "SESSIONS_LOGOUT_ALL_SESSIONS_SETTING",
+      "key": "sessions_logout_all_sessions_setting"
+    },
+    {
+      "symbol": "ACCOUNT_STANDING_NESTED_PANEL",
+      "key": "account_standing_nested_panel"
+    },
+    {
+      "symbol": "ACCOUNT_STANDING_NESTED_CATEGORY",
+      "key": "account_standing_nested_category"
+    },
+    {
+      "symbol": "ACCOUNT_STANDING_PANEL",
+      "key": "account_standing_panel"
+    },
+    {
+      "symbol": "ACCOUNT_STANDING_CATEGORY",
+      "key": "account_standing_category"
+    },
+    {
+      "symbol": "ACCOUNT_STANDING_SETTING",
+      "key": "account_standing_setting"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_AGE_GROUP_VERIFY_SETTING",
+      "key": "account_info_age_group_verify_setting"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_AGE_GROUP_EDIT_SETTING",
+      "key": "account_info_age_group_edit_setting"
+    },
+    {
+      "symbol": "ACCOUNT_INFO_AGE_GROUP_INFO_SETTING",
+      "key": "account_info_age_group_info_setting"
+    },
+    {
+      "symbol": "ACCOUNT_STATUS_AGE_GROUP_VERIFY_SETTING",
+      "key": "account_status_age_group_verify_setting"
+    },
+    {
+      "symbol": "ACCOUNT_STATUS_AGE_GROUP_EDIT_SETTING",
+      "key": "account_status_age_group_edit_setting"
+    },
+    {
+      "symbol": "ACCOUNT_STATUS_AGE_GROUP_INFO_SETTING",
+      "key": "account_status_age_group_info_setting"
+    },
+    {
+      "symbol": "ACCOUNT_FAMILY_CENTER_CATEGORY",
+      "key": "account_family_center_category"
+    },
+    {
+      "symbol": "ACCOUNT_FAMILY_CENTER_NESTED_PANEL",
+      "key": "account_family_center_nested_panel"
+    },
+    {
+      "symbol": "FAMILY_CENTER_PANEL",
+      "key": "family_center_panel"
+    },
+    {
+      "symbol": "FAMILY_CENTER_CATEGORY",
+      "key": "family_center_category"
+    },
+    {
+      "symbol": "FAMILY_CENTER_SETTING",
+      "key": "family_center_setting"
+    },
+    {
+      "symbol": "ACCOUNT_REMOVAL_CATEGORY",
+      "key": "account_removal_category"
+    },
+    {
+      "symbol": "ACCOUNT_DISABLE_SETTING",
+      "key": "account_disable_setting"
+    },
+    {
+      "symbol": "ACCOUNT_DELETE_SETTING",
+      "key": "account_delete_setting"
+    },
+    {
+      "symbol": "MESSAGING_PERMISSIONS_SIDEBAR_ITEM",
+      "key": "messaging_permissions_sidebar_item"
+    },
+    {
+      "symbol": "MESSAGING_PERMISSIONS_PANEL",
+      "key": "messaging_permissions_panel"
+    },
+    {
+      "symbol": "CONTENT_FILTERS_RELATED_SETTINGS",
+      "key": "content_filters_related_settings"
+    },
+    {
+      "symbol": "CONTENT_FILTERS_APPEARANCE_NAVIGATOR",
+      "key": "content_filters_appearance_navigator"
+    },
+    {
+      "symbol": "CONNECTED_GAMES_RELATED_SETTINGS",
+      "key": "connected_games_related_settings"
+    },
+    {
+      "symbol": "CONNECTED_GAMES_AUTHORIZED_APPS_NAVIGATOR",
+      "key": "connected_games_authorized_apps_navigator"
+    },
+    {
+      "symbol": "CONNECTED_GAMES_UNAVAILABLE",
+      "key": "connected_games_unavailable"
+    },
+    {
+      "symbol": "CONTENT_CATEGORY",
+      "key": "content_category"
+    },
+    {
+      "symbol": "SPAM_FILTERS_CATEGORY",
+      "key": "spam_filters_category"
+    },
+    {
+      "symbol": "PERMISSIONS_CATEGORY",
+      "key": "permissions_category"
+    },
+    {
+      "symbol": "FRIEND_REQUESTS_CATEGORY",
+      "key": "friend_requests_category"
+    },
+    {
+      "symbol": "RESTRICTED_USERS_CATEGORY",
+      "key": "restricted_users_category"
+    },
+    {
+      "symbol": "CONNECTED_GAMES_CATEGORY",
+      "key": "connected_games_category"
+    },
+    {
+      "symbol": "CONTENT_FILTERS_SETTING",
+      "key": "content_filters_setting"
+    },
+    {
+      "symbol": "DM_SPAM_SETTING",
+      "key": "dm_spam_setting"
+    },
+    {
+      "symbol": "DM_SAFETY_ALERTS_SETTING",
+      "key": "dm_safety_alerts_setting"
+    },
+    {
+      "symbol": "AGE_RESTRICTED_DM_SETTING",
+      "key": "age_restricted_dm_setting"
+    },
+    {
+      "symbol": "AGE_RESTRICTED_IOS_SETTING",
+      "key": "age_restricted_ios_setting"
+    },
+    {
+      "symbol": "PERMISSIONS_GUILD_SELECTOR",
+      "key": "permissions_guild_selector"
+    },
+    {
+      "symbol": "PERMISSIONS_DMS_SETTING",
+      "key": "permissions_dms_setting"
+    },
+    {
+      "symbol": "PERMISSIONS_MESSAGE_REQUESTS_SETTING",
+      "key": "permissions_message_requests_setting"
+    },
+    {
+      "symbol": "MESSAGE_REQUESTS_NOTICE_SETTING",
+      "key": "message_requests_notice_setting"
+    },
+    {
+      "symbol": "FRIEND_REQUESTS_EVERYONE_SETTING",
+      "key": "friend_requests_everyone_setting"
+    },
+    {
+      "symbol": "FRIEND_REQUESTS_MUTUAL_FRIENDS_SETTING",
+      "key": "friend_requests_mutual_friends_setting"
+    },
+    {
+      "symbol": "FRIEND_REQUESTS_MUTUAL_GUILDS_SETTING",
+      "key": "friend_requests_mutual_guilds_setting"
+    },
+    {
+      "symbol": "BLOCKED_USERS",
+      "key": "blocked_users"
+    },
+    {
+      "symbol": "IGNORED_USERS",
+      "key": "ignored_users"
+    },
+    {
+      "symbol": "ALLOW_GAME_FRIEND_DMS_SETTING",
+      "key": "allow_game_friend_dms_setting"
+    },
+    {
+      "symbol": "IN_GAME_DMS_SETTING",
+      "key": "in_game_dms_setting"
+    },
+    {
+      "symbol": "FRIEND_REQUESTS_NOTES_SETTING",
+      "key": "friend_requests_notes_setting"
+    },
+    {
+      "symbol": "FRIEND_REQUESTS_FIELDSET",
+      "key": "friend_requests_fieldset"
+    },
+    {
+      "symbol": "DATA_AND_PRIVACY_SIDEBAR_ITEM",
+      "key": "data_and_privacy_sidebar_item"
+    },
+    {
+      "symbol": "DATA_AND_PRIVACY_PANEL",
+      "key": "data_and_privacy_panel"
+    },
+    {
+      "symbol": "PROFILE_PRIVACY_CATEGORY",
+      "key": "profile_privacy_category"
+    },
+    {
+      "symbol": "PROFILE_PRIVACY_SETTING",
+      "key": "profile_privacy_setting"
+    },
+    {
+      "symbol": "NOTIFY_FRIENDS_ON_PROFILE_UPDATE_SETTING",
+      "key": "notify_friends_on_profile_update_setting"
+    },
+    {
+      "symbol": "PROFILE_PRIVACY_RELATED_SETTINGS",
+      "key": "profile_privacy_related_settings"
+    },
+    {
+      "symbol": "PROFILE_PRIVACY_TO_ACTIVITY_PRIVACY_NAVIGATOR",
+      "key": "profile_privacy_to_activity_privacy_navigator"
+    },
+    {
+      "symbol": "DATA_USAGE_CATEGORY",
+      "key": "data_usage_category"
+    },
+    {
+      "symbol": "DATA_USAGE_STATISTICS_SETTING",
+      "key": "data_usage_statistics_setting"
+    },
+    {
+      "symbol": "DATA_USAGE_QUESTS_SETTING",
+      "key": "data_usage_quests_setting"
+    },
+    {
+      "symbol": "DATA_USAGE_QUESTS_3P_SETTING",
+      "key": "data_usage_quests_3p_setting"
+    },
+    {
+      "symbol": "DATA_USAGE_PERSONALIZATION_SETTING",
+      "key": "data_usage_personalization_setting"
+    },
+    {
+      "symbol": "DATA_USAGE_DISCLAIMER_SETTING",
+      "key": "data_usage_disclaimer_setting"
+    },
+    {
+      "symbol": "DATA_USAGE_ACTIVITY_PRIVACY_NAVIGATOR",
+      "key": "data_usage_activity_privacy_navigator"
+    },
+    {
+      "symbol": "DATA_USAGE_RELATED_SETTINGS",
+      "key": "data_usage_related_settings"
+    },
+    {
+      "symbol": "DATA_HARVEST_REQUEST_SETTING",
+      "key": "data_harvest_request_setting"
+    },
+    {
+      "symbol": "SPONSORED_CONTENT_CATEGORY",
+      "key": "sponsored_content_category"
+    },
+    {
+      "symbol": "SPONSORED_CONTENT_QUESTS_SETTING",
+      "key": "sponsored_content_quests_setting"
+    },
+    {
+      "symbol": "SPONSORED_CONTENT_QUESTS_3P_SETTING",
+      "key": "sponsored_content_quests_3p_setting"
+    },
+    {
+      "symbol": "MANAGE_SPONSORED_CONTENT_TOPICS_SETTING",
+      "key": "manage_sponsored_content_topics_setting"
+    },
+    {
+      "symbol": "VOICE_SECURITY_CATEGORY",
+      "key": "voice_security_category"
+    },
+    {
+      "symbol": "PERSISTENT_VERIFICATION_CODES_SETTING",
+      "key": "persistent_verification_codes_setting"
+    },
+    {
+      "symbol": "USERS_VERIFIED_KEYS_LIST_SETTING",
+      "key": "users_verified_keys_list_setting"
+    },
+    {
+      "symbol": "CLIPS_ALLOW_VOICE_RECORDING_SETTING",
+      "key": "clips_allow_voice_recording_setting"
+    },
+    {
+      "symbol": "NOTIFICATIONS_SIDEBAR_ITEM",
+      "key": "notifications_sidebar_item"
+    },
+    {
+      "symbol": "NOTIFICATIONS_PANEL",
+      "key": "notifications_panel"
+    },
+    {
+      "symbol": "NOTIFICATIONS_OVERVIEW_CATEGORY",
+      "key": "notifications_overview_category"
+    },
+    {
+      "symbol": "NOTIFICATION_SELECTION_FIELD_SET",
+      "key": "notification_selection_field_set"
+    },
+    {
+      "symbol": "DESKTOP_NOTIFICATIONS",
+      "key": "desktop_notifications"
+    },
+    {
+      "symbol": "GO_LIVE_NOTIFICATIONS",
+      "key": "go_live_notifications"
+    },
+    {
+      "symbol": "REACTION_NOTIFICATIONS",
+      "key": "reaction_notifications"
+    },
+    {
+      "symbol": "FRIEND_ONLINE_NOTIFICATIONS",
+      "key": "friend_online_notifications"
+    },
+    {
+      "symbol": "PROFILE_UPDATES_NOTIFICATIONS",
+      "key": "profile_updates_notifications"
+    },
+    {
+      "symbol": "FRIEND_ANNIVERSARY_NOTIFICATIONS",
+      "key": "friend_anniversary_notifications"
+    },
+    {
+      "symbol": "SERVER_TRENDING_NOTIFICATIONS",
+      "key": "server_trending_notifications"
+    },
+    {
+      "symbol": "UPCOMING_SERVER_EVENT_NOTIFICATIONS",
+      "key": "upcoming_server_event_notifications"
+    },
+    {
+      "symbol": "EXPERIMENTAL_UNREADS",
+      "key": "experimental_unreads"
+    },
+    {
+      "symbol": "NOTIFICATIONS_SOUNDS_CATEGORY",
+      "key": "notifications_sounds_category"
+    },
+    {
+      "symbol": "NOTIFICATION_HOLIDAY_SOUNDPACK",
+      "key": "notification_holiday_soundpack"
+    },
+    {
+      "symbol": "NOTIFICATION_SOUNDS_LIST",
+      "key": "notification_sounds_list"
+    },
+    {
+      "symbol": "NOTIFICATIONS_SOUNDS_RELATED_SETTINGS",
+      "key": "notifications_sounds_related_settings"
+    },
+    {
+      "symbol": "NOTIFICATIONS_TO_VOICE_AND_VIDEO_SOUNDS_NAVIGATOR",
+      "key": "notifications_to_voice_and_video_sounds_navigator"
+    },
+    {
+      "symbol": "SOUNDS_LIST_ITEM_PREFIX",
+      "key": "sounds_list_item_"
+    },
+    {
+      "symbol": "SELECTED_CHANNEL_NOTIFICATIONS",
+      "key": "selected_channel_notifications"
+    },
+    {
+      "symbol": "DISABLE_ALL_NOTIFICATION_SOUNDS",
+      "key": "disable_all_notification_sounds"
+    },
+    {
+      "symbol": "NOTIFICATIONS_BADGES_CATEGORY",
+      "key": "notifications_badges_category"
+    },
+    {
+      "symbol": "ENABLE_UNREAD_MESSAGE_BADGE",
+      "key": "enable_unread_message_badge"
+    },
+    {
+      "symbol": "TASK_BAR_FLASHING",
+      "key": "task_bar_flashing"
+    },
+    {
+      "symbol": "SCREEN_DOWNTIME_REMINDER",
+      "key": "screen_downtime_reminder"
+    },
+    {
+      "symbol": "SCREEN_DOWNTIME_SCHEDULE",
+      "key": "screen_downtime_schedule"
+    },
+    {
+      "symbol": "NOTIFICATIONS_EMAIL_CATEGORY",
+      "key": "notifications_email_category"
+    },
+    {
+      "symbol": "EMAIL_LIST_ITEM_PREFIX",
+      "key": "email_list_item_"
+    },
+    {
+      "symbol": "UNSUBSCRIBE_FROM_ALL_MARKETING_EMAILS",
+      "key": "unsubscribe_from_all_marketing_emails"
+    },
+    {
+      "symbol": "NOTIFICATIONS_ADVANCED_CATEGORY",
+      "key": "notifications_advanced_category"
+    },
+    {
+      "symbol": "NOTIFICATIONS_ADVANCED_ACCORDION",
+      "key": "notifications_advanced_accordion"
+    },
+    {
+      "symbol": "MOBILE_NOTIFICATION_DELAY",
+      "key": "mobile_notification_delay"
+    },
+    {
+      "symbol": "TEXT_TO_SPEECH_COMMAND",
+      "key": "text_to_speech_command"
+    },
+    {
+      "symbol": "TEXT_TO_SPEECH_NOTIFICATIONS",
+      "key": "text_to_speech_notifications"
+    },
+    {
+      "symbol": "CLIPS_SIDEBAR_ITEM",
+      "key": "clips_sidebar_item"
+    },
+    {
+      "symbol": "CLIPS_PANEL",
+      "key": "clips_panel"
+    },
+    {
+      "symbol": "CLIPS_HARDWARE_CLASSIFICATION_WARNING",
+      "key": "clips_hardware_classification_warning"
+    },
+    {
+      "symbol": "CLIPS_QUALITY_INFOBOX",
+      "key": "clips_quality_infobox"
+    },
+    {
+      "symbol": "CLIPS_ENABLE",
+      "key": "clips_enable"
+    },
+    {
+      "symbol": "CLIPS_ENABLE_REMINDERS",
+      "key": "clips_enable_reminders"
+    },
+    {
+      "symbol": "CLIPS_SHOW_POV_CLIPS",
+      "key": "clips_show_pov_clips"
+    },
+    {
+      "symbol": "CLIPS_LENGTH",
+      "key": "clips_length"
+    },
+    {
+      "symbol": "CLIPS_RESOLUTION",
+      "key": "clips_resolution"
+    },
+    {
+      "symbol": "CLIPS_FRAME_RATE",
+      "key": "clips_frame_rate"
+    },
+    {
+      "symbol": "CLIPS_BITRATE",
+      "key": "clips_bitrate"
+    },
+    {
+      "symbol": "CLIPS_KEYBIND",
+      "key": "clips_keybind"
+    },
+    {
+      "symbol": "CLIPS_SCREENSHOT_KEYBIND",
+      "key": "clips_screenshot_keybind"
+    },
+    {
+      "symbol": "CLIPS_STORAGE_LOCATION",
+      "key": "clips_storage_location"
+    },
+    {
+      "symbol": "CLIPS_GENERAL_CATEGORY",
+      "key": "clips_general_category"
+    },
+    {
+      "symbol": "CLIPS_GENERAL_CARD",
+      "key": "clips_general_card"
+    },
+    {
+      "symbol": "CLIPS_AUTOCLIPPING_CATEGORY",
+      "key": "clips_autoclipping_category"
+    },
+    {
+      "symbol": "CLIPS_AUTOCLIPPING_CARD",
+      "key": "clips_autoclipping_card"
+    },
+    {
+      "symbol": "CLIPS_CAPTURE_SETTINGS_CATEGORY",
+      "key": "clips_capture_settings_category"
+    },
+    {
+      "symbol": "CLIPS_STORAGE_CATEGORY",
+      "key": "clips_storage_category"
+    },
+    {
+      "symbol": "CLIPS_ENABLE_AUTOCLIPPING",
+      "key": "clips_enable_autoclipping"
+    },
+    {
+      "symbol": "CLIPS_DEVELOPER_CATEGORY",
+      "key": "clips_developer_category"
+    },
+    {
+      "symbol": "CLIPS_DEBUG_TOOLTIPS",
+      "key": "clips_debug_tooltips"
+    },
+    {
+      "symbol": "BILLING_SECTION",
+      "key": "billing_section"
+    },
+    {
+      "symbol": "NITRO_SIDEBAR_ITEM",
+      "key": "nitro_sidebar_item"
+    },
+    {
+      "symbol": "NITRO_PANEL",
+      "key": "nitro_panel"
+    },
+    {
+      "symbol": "NITRO_CATEGORY",
+      "key": "nitro_category"
+    },
+    {
+      "symbol": "NITRO_SETTING",
+      "key": "nitro_setting"
+    },
+    {
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_SIDEBAR_ITEM",
+      "key": "premium_guild_subscriptions_sidebar_item"
+    },
+    {
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_PANEL",
+      "key": "premium_guild_subscriptions_panel"
+    },
+    {
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_CATEGORY",
+      "key": "premium_guild_subscriptions_category"
+    },
+    {
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_SETTING",
+      "key": "premium_guild_subscriptions_setting"
+    },
+    {
+      "symbol": "SUBSCRIPTIONS_SIDEBAR_ITEM",
+      "key": "subscriptions_sidebar_item"
+    },
+    {
+      "symbol": "SUBSCRIPTIONS_PANEL",
+      "key": "subscriptions_panel"
+    },
+    {
+      "symbol": "SUBSCRIPTIONS_CATEGORY",
+      "key": "subscriptions_category"
+    },
+    {
+      "symbol": "SUBSCRIPTIONS_SETTINGS",
+      "key": "subscriptions_settings"
+    },
+    {
+      "symbol": "GIFT_SIDEBAR_ITEM",
+      "key": "gift_sidebar_item"
+    },
+    {
+      "symbol": "GIFT_PANEL",
+      "key": "gift_panel"
+    },
+    {
+      "symbol": "REDEEM_GIFT_CATEGORY",
+      "key": "redeem_gift_category"
+    },
+    {
+      "symbol": "REDEEM_CODE_INPUT",
+      "key": "redeem_code_input"
+    },
+    {
+      "symbol": "MY_GIFTS_CATEGORY",
+      "key": "my_gifts_category"
+    },
+    {
+      "symbol": "MY_GIFTS_CONTENT",
+      "key": "my_gifts_content"
+    },
+    {
+      "symbol": "PURCHASED_GIFTS_CATEGORY",
+      "key": "purchased_gifts_category"
+    },
+    {
+      "symbol": "PURCHASED_GIFTS_CONTENT",
+      "key": "purchased_gifts_content"
+    },
+    {
+      "symbol": "GIFTING_BADGE_CATEGORY",
+      "key": "gifting_badge_category"
+    },
+    {
+      "symbol": "GIFTING_BADGE_CONTENT",
+      "key": "gifting_badge_content"
+    },
+    {
+      "symbol": "GIFT_BLOCKED_PAYMENTS_SETTING",
+      "key": "gift_blocked_payments_setting"
+    },
+    {
+      "symbol": "GIFT_BLOCKED_PAYMENTS_CATEGORY",
+      "key": "gift_blocked_payments_category"
+    },
+    {
+      "symbol": "BILLING_SIDEBAR_ITEM",
+      "key": "billing_sidebar_item"
+    },
+    {
+      "symbol": "BILLING_PANEL",
+      "key": "billing_panel"
+    },
+    {
+      "symbol": "BILLING_PAYMENT_METHODS_CATEGORY",
+      "key": "billing_payment_methods_category"
+    },
+    {
+      "symbol": "BILLING_PAYMENT_METHODS",
+      "key": "billing_payment_methods"
+    },
+    {
+      "symbol": "BILLING_TRANSACTION_HISTORY_CATEGORY",
+      "key": "billing_transaction_history_category"
+    },
+    {
+      "symbol": "BILLING_TRANSACTION_HISTORY",
+      "key": "billing_transaction_history"
+    },
+    {
+      "symbol": "APP_SECTION",
+      "key": "app_section"
+    },
+    {
+      "symbol": "APPEARANCE_SIDEBAR_ITEM",
+      "key": "appearance_sidebar_item"
+    },
+    {
+      "symbol": "APPEARANCE_PANEL",
+      "key": "appearance_panel"
+    },
+    {
+      "symbol": "APPEARANCE_THEME_CATEGORY",
+      "key": "appearance_theme_category"
+    },
+    {
+      "symbol": "APPEARANCE_THEME_FIELDSET",
+      "key": "appearance_theme_fieldset"
+    },
+    {
+      "symbol": "APPEARANCE_SAME_AS_DEVICE_THEME",
+      "key": "appearance_same_as_device_theme"
+    },
+    {
+      "symbol": "APPEARANCE_DUAL_THEME_SELECTOR",
+      "key": "appearance_dual_theme_selector"
+    },
+    {
+      "symbol": "APPEARANCE_DEFAULT_THEMES",
+      "key": "appearance_default_themes"
+    },
+    {
+      "symbol": "APPEARANCE_DARK_SIDEBAR",
+      "key": "appearance_dark_sidebar"
+    },
+    {
+      "symbol": "APPEARANCE_CUSTOM_THEMES_UPSELL",
+      "key": "appearance_custom_themes_upsell"
+    },
+    {
+      "symbol": "APPEARANCE_CLIENT_THEMES",
+      "key": "appearance_client_themes"
+    },
+    {
+      "symbol": "APPEARANCE_SYNC_THEME",
+      "key": "appearance_sync_theme"
+    },
+    {
+      "symbol": "SYNC_PROFILE_THEMES",
+      "key": "sync_profile_themes"
+    },
+    {
+      "symbol": "APPEARANCE_GUILD_THEME_DEFAULT_PREFERENCE",
+      "key": "appearance_guild_theme_default_preference"
+    },
+    {
+      "symbol": "APPEARANCE_THEME_RELATED_SETTINGS",
+      "key": "appearance_theme_related_settings"
+    },
+    {
+      "symbol": "APPEARANCE_THEME_ACCESSIBLITY_NAVIGATOR",
+      "key": "appearance_theme_accessibility_navigator"
+    },
+    {
+      "symbol": "APPEARANCE_IN_APP_ICON_CATEGORY",
+      "key": "appearance_in_app_icon_category"
+    },
+    {
+      "symbol": "APPEARANCE_IN_APP_ICON",
+      "key": "appearance_in_app_icon"
+    },
+    {
+      "symbol": "APPEARANCE_MESSAGES_CATEGORY",
+      "key": "appearance_messages_category"
+    },
+    {
+      "symbol": "CHAT_INLINE_FIELD_SET",
+      "key": "chat_inline_media_field_set"
+    },
+    {
+      "symbol": "CHAT_INLINE_MEDIA_LINKS",
+      "key": "chat_inline_media_links"
+    },
+    {
+      "symbol": "CHAT_INLINE_MEDIA_UPLOADS",
+      "key": "chat_inline_media_uploads"
+    },
+    {
+      "symbol": "CHAT_EMBEDS_RENDER_EMBEDS",
+      "key": "chat_embeds_render_embeds"
+    },
+    {
+      "symbol": "CHAT_EMOJI_RENDER_REACTIONS",
+      "key": "chat_emoji_render_reactions"
+    },
+    {
+      "symbol": "CHAT_SPOILERS_SHOW_SPOILERS",
+      "key": "chat_spoilers_show_spoilers"
+    },
+    {
+      "symbol": "CHAT_THREADS_SPLIT_VIEW",
+      "key": "chat_threads_split_view"
+    },
+    {
+      "symbol": "APPEARANCE_DISPLAY_COMPACT_AVATARS",
+      "key": "appearance_display_compact_avatars"
+    },
+    {
+      "symbol": "CHAT_FAVORITES_TOGGLE",
+      "key": "chat_favorites_toggle"
+    },
+    {
+      "symbol": "APPEARANCE_CHAT_RELATED_SETTINGS",
+      "key": "appearance_chat_related_settings"
+    },
+    {
+      "symbol": "APPEARANCE_CHAT_ACCESSIBLITY_NAVIGATOR",
+      "key": "appearance_chat_accessibility_navigator"
+    },
+    {
+      "symbol": "APPEARANCE_CHAT_BOX_CATEGORY",
+      "key": "appearance_chat_box_category"
+    },
+    {
+      "symbol": "CHAT_TEXT_BOX_PREVIEWS",
+      "key": "chat_text_box_previews"
+    },
+    {
+      "symbol": "CHAT_EMOJI_CONVERT_EMOTICONS",
+      "key": "chat_emoji_convert_emoticons"
+    },
+    {
+      "symbol": "CHAT_STICKERS_AUTOCOMPLETE",
+      "key": "chat_stickers_autocomplete"
+    },
+    {
+      "symbol": "CHAT_GAME_MENTIONS_AUTOCOMPLETE",
+      "key": "chat_game_mentions_autocomplete"
+    },
+    {
+      "symbol": "ENABLE_SEND_BUTTON",
+      "key": "enable_send_button"
+    },
+    {
+      "symbol": "ENABLE_SEND_BUTTON_OUTSIDE_EXPERIMENT",
+      "key": "enable_send_button_outside_experiment"
+    },
+    {
+      "symbol": "ENABLE_APPS_BUTTON",
+      "key": "enable_apps_button"
+    },
+    {
+      "symbol": "EXPRESSION_PICKER_FORMAT",
+      "key": "expression_picker_format"
+    },
+    {
+      "symbol": "CONDENSE_PICKER_WHEN_NARROW",
+      "key": "condense_picker_when_narrow"
+    },
+    {
+      "symbol": "ENABLE_EMOJI_BUTTON",
+      "key": "enable_emoji_button"
+    },
+    {
+      "symbol": "ENABLE_GIF_BUTTON",
+      "key": "enable_gif_button"
+    },
+    {
+      "symbol": "ENABLE_STICKER_BUTTON",
+      "key": "enable_sticker_button"
+    },
+    {
+      "symbol": "CHAT_BAR_ADVANCED_ACCORDION",
+      "key": "chat_bar_advanced_accordion"
+    },
+    {
+      "symbol": "EXPRESSION_PICKER_FIELD_SET",
+      "key": "expression_picker_field_set"
+    },
+    {
+      "symbol": "APPEARANCE_SEARCH_CATEGORY",
+      "key": "appearance_search_category"
+    },
+    {
+      "symbol": "MESSAGE_SEARCH_DEFAULT_DM_SEARCH_BEHAVIOR",
+      "key": "message_search_default_dm_search_behavior"
+    },
+    {
+      "symbol": "STREAMER_MODE_CATEGORY",
+      "key": "streamer_mode_category"
+    },
+    {
+      "symbol": "STREAMING_STREAMER_MODE",
+      "key": "streaming_enable_streamer_mode"
+    },
+    {
+      "symbol": "STREAMING_AUTO_STREAMER_MODE",
+      "key": "streaming_auto_streamer_mode"
+    },
+    {
+      "symbol": "STREAMER_MODE_OPTIONS_LIST",
+      "key": "streamer_mode_options_list"
+    },
+    {
+      "symbol": "STREAMER_MODE_HIDE_PERSONAL_INFORMATION",
+      "key": "streamer_mode_hide_personal_information"
+    },
+    {
+      "symbol": "STREAMER_MODE_HIDE_INVITE_LINKS",
+      "key": "streamer_mode_hide_invite_links"
+    },
+    {
+      "symbol": "STREAMER_MODE_DISABLE_SOUNDS",
+      "key": "streamer_mode_disable_sounds"
+    },
+    {
+      "symbol": "STREAMER_MODE_DISABLE_NOTIFICATIONS",
+      "key": "streamer_mode_disable_notifications"
+    },
+    {
+      "symbol": "STREAMER_MODE_HIDE_DISCORD_WINDOW_FROM_SCREEN_CAPTURE",
+      "key": "streamer_mode_hide_discord_window_from_screen_capture"
+    },
+    {
+      "symbol": "STREAMER_MODE_HIDE_OVERLAY_WIDGETS",
+      "key": "streamer_mode_hide_overlay_widgets"
+    },
+    {
+      "symbol": "APPEARANCE_ADVANCED_CATEGORY",
+      "key": "appearance_advanced_category"
+    },
+    {
+      "symbol": "HARDWARE_ACCELERATION",
+      "key": "hardware_acceleration"
+    },
+    {
+      "symbol": "SHOW_GAME_LIBRARY",
+      "key": "show_game_library"
+    },
+    {
+      "symbol": "ACCESSIBILITY_SIDEBAR_ITEM",
+      "key": "accessibility_sidebar_item"
+    },
+    {
+      "symbol": "ACCESSIBILITY_PANEL",
+      "key": "accessibility_panel"
+    },
+    {
+      "symbol": "TEXT_READABILITY_CATEGORY",
+      "key": "text_readability_category"
+    },
+    {
+      "symbol": "APPEARANCE_FONT_SCALING",
+      "key": "appearance_font_scaling"
+    },
+    {
+      "symbol": "UNDERLINE_LINKS",
+      "key": "underline_links"
+    },
+    {
+      "symbol": "DISPLAY_NAME_STYLES",
+      "key": "display_name_styles"
+    },
+    {
+      "symbol": "VISUAL_DENSITY_CATEGORY",
+      "key": "visual_density_category"
+    },
+    {
+      "symbol": "APPEARANCE_UI_DENSITY",
+      "key": "appearance_ui_density"
+    },
+    {
+      "symbol": "APPEARANCE_MESSAGE_DISPLAY_MODE",
+      "key": "appearance_message_display_mode"
+    },
+    {
+      "symbol": "APPEARANCE_MESSAGE_GROUP_SPACING",
+      "key": "appearance_message_group_spacing"
+    },
+    {
+      "symbol": "APPEARANCE_ZOOM",
+      "key": "appearance_zoom"
+    },
+    {
+      "symbol": "COLOR_AND_CONTRAST_CATEGORY",
+      "key": "color_and_contrast_category"
+    },
+    {
+      "symbol": "SATURATION",
+      "key": "saturation"
+    },
+    {
+      "symbol": "DESATURATE_CUSTOM_COLORS",
+      "key": "desaturate_custom_colors"
+    },
+    {
+      "symbol": "HIGH_CONTRAST_MODE",
+      "key": "high_contrast_mode"
+    },
+    {
+      "symbol": "ENABLE_CUSTOM_CURSOR",
+      "key": "enable_custom_cursor"
+    },
+    {
+      "symbol": "SYNC_FORCED_COLORS",
+      "key": "sync_forced_colors"
+    },
+    {
+      "symbol": "HIGH_DYNAMIC_RANGE",
+      "key": "high_dynamic_range"
+    },
+    {
+      "symbol": "ROLE_STYLE",
+      "key": "role_style"
+    },
+    {
+      "symbol": "OFFICIAL_MESSAGE_STYLE",
+      "key": "official_message_style"
+    },
+    {
+      "symbol": "ENABLE_SWITCH_ICONS",
+      "key": "enable_switch_icons"
+    },
+    {
+      "symbol": "COLOR_AND_CONTRAST_RELATED_SETTINGS",
+      "key": "color_and_contrast_related_settings"
+    },
+    {
+      "symbol": "ACCESSIBILITY_TO_DISPLAY_NAVIGATOR",
+      "key": "accessibility_to_display_navigator"
+    },
+    {
+      "symbol": "MOTION_CATEGORY",
+      "key": "motion"
+    },
+    {
+      "symbol": "REDUCED_MOTION",
+      "key": "reduced_motion"
+    },
+    {
+      "symbol": "SYNC_REDUCED_MOTION",
+      "key": "sync_reduced_motion"
+    },
+    {
+      "symbol": "ANIMATE_GIFS",
+      "key": "animate_gifs"
+    },
+    {
+      "symbol": "ANIMATE_EMOJIS",
+      "key": "animate_emojis"
+    },
+    {
+      "symbol": "ANIMATE_STICKERS",
+      "key": "animate_stickers"
+    },
+    {
+      "symbol": "AUDIO_AND_SCREEN_READER_CATEGORY",
+      "key": "audio_and_screen_reader_category"
+    },
+    {
+      "symbol": "TTS_PLAYBACK_RATE",
+      "key": "tts_playback_rate"
+    },
+    {
+      "symbol": "CHAT_INLINE_MEDIA_IMAGE_DESCRIPTIONS",
+      "key": "chat_inline_media_image_descriptions"
+    },
+    {
+      "symbol": "ENABLE_LEGACY_CHAT_INPUT",
+      "key": "enable_legacy_chat_input"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_SIDEBAR_ITEM",
+      "key": "voice_and_video_sidebar_item"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_PANEL",
+      "key": "voice_and_video_panel"
+    },
+    {
+      "symbol": "VOICE_CATEGORY",
+      "key": "voice_category"
+    },
+    {
+      "symbol": "VOICE_INPUT_OUTPUT_DEVICE_SPLIT",
+      "key": "voice_input_output_device_split"
+    },
+    {
+      "symbol": "VOICE_MICROPHONE_INPUT_SELECT",
+      "key": "voice_microphone_input_select"
+    },
+    {
+      "symbol": "VOICE_SPEAKER_OUTPUT_SELECT",
+      "key": "voice_speakers_output_select"
+    },
+    {
+      "symbol": "VOICE_INPUT_OUTPUT_VOLUME_SPLIT",
+      "key": "voice_input_output_volume_split"
+    },
+    {
+      "symbol": "VOICE_INPUT_VOLUME_SETTING",
+      "key": "voice_input_volume_setting"
+    },
+    {
+      "symbol": "VOICE_OUTPUT_VOLUME_SETTING",
+      "key": "voice_output_volume_setting"
+    },
+    {
+      "symbol": "VOICE_MICROPHONE_TEST_SETTING",
+      "key": "voice_microphone_test_setting"
+    },
+    {
+      "symbol": "VOICE_INPUT_PROFILE_CATEGORY",
+      "key": "voice_input_profile_category"
+    },
+    {
+      "symbol": "VOICE_INPUT_PROFILE_SETTING",
+      "key": "voice_input_profile_setting"
+    },
+    {
+      "symbol": "VOICE_PUSH_TO_TALK_SETTING",
+      "key": "voice_push_to_talk_setting"
+    },
+    {
+      "symbol": "VOICE_PUSH_TO_TALK_KEYBIND_SETTING",
+      "key": "voice_push_to_talk_keybind_setting"
+    },
+    {
+      "symbol": "VOICE_PUSH_TO_TALK_RELEASE_DELAY_SETTING",
+      "key": "voice_push_to_talk_release_delay_setting"
+    },
+    {
+      "symbol": "VOICE_NOISE_SUPPRESSION_SETTING",
+      "key": "voice_noise_suppression_setting"
+    },
+    {
+      "symbol": "INPUT_PROFILE_VOICE_ADVANCED_ACCORDION",
+      "key": "input_profile_voice_advanced_accordion"
+    },
+    {
+      "symbol": "VOICE_INPUT_SENSITIVITY_FIELD_SET",
+      "key": "voice_input_sensitivity_field_set"
+    },
+    {
+      "symbol": "VOICE_ECHO_CANCELLATION_SETTING",
+      "key": "voice_echo_cancellation_setting"
+    },
+    {
+      "symbol": "VOICE_SPATIAL_AUDIO_SETTING",
+      "key": "voice_spatial_audio_setting"
+    },
+    {
+      "symbol": "ADVANCED_VOICE_ACTIVITY_PROCESSING_SETTING",
+      "key": "advanced_voice_activity_processing_setting"
+    },
+    {
+      "symbol": "VOICE_AUTOMATIC_GAIN_CONTROL_SETTING",
+      "key": "voice_automatic_gain_control_setting"
+    },
+    {
+      "symbol": "VOICE_BYPASS_SYSTEM_INPUT_PROCESSING_SETTING",
+      "key": "voice_bypass_system_input_processing_setting"
+    },
+    {
+      "symbol": "VOICE_AUDIO_DEVICE_SUGGESTIONS_SETTING",
+      "key": "voice_audio_device_suggestions_setting"
+    },
+    {
+      "symbol": "VOICE_SILENCE_WARNING_SETTING",
+      "key": "voice_silence_warning_setting"
+    },
+    {
+      "symbol": "VOICE_SWITCH_CHANNEL_ALERT_SETTING",
+      "key": "voice_switch_channel_alert_setting"
+    },
+    {
+      "symbol": "VOICE_GLOBAL_ATTENUATION_FIELD_SET",
+      "key": "voice_global_attenuation_field_set"
+    },
+    {
+      "symbol": "VOICE_GLOBAL_ATTENUATION_SLIDER",
+      "key": "voice_global_attenuation_slider"
+    },
+    {
+      "symbol": "VOICE_GLOBAL_ATTENUATION_FOR_SELF_SETTING",
+      "key": "voice_global_attenuation_for_self_setting"
+    },
+    {
+      "symbol": "VOICE_GLOBAL_ATTENUATION_FOR_OTHERS_SETTING",
+      "key": "voice_global_attenuation_for_others_setting"
+    },
+    {
+      "symbol": "VOICE_AUDIO_SUBSYSTEM_SETTING",
+      "key": "voice_audio_subsystem_setting"
+    },
+    {
+      "symbol": "VOICE_QUALITY_OF_SERVICE_SETTING",
+      "key": "voice_quality_of_service_setting"
+    },
+    {
+      "symbol": "CAMERA_CATEGORY",
+      "key": "camera_category"
+    },
+    {
+      "symbol": "CAMERA_VIDEO_PREVIEW",
+      "key": "camera_video_preview"
+    },
+    {
+      "symbol": "CAMERA_PREVIEW_PREFERENCE",
+      "key": "camera_preview_preference"
+    },
+    {
+      "symbol": "CAMERA_SELECTION_SETTING",
+      "key": "camera_selection_setting"
+    },
+    {
+      "symbol": "CAMERA_BACKGROUND_SETTING",
+      "key": "camera_background_setting"
+    },
+    {
+      "symbol": "STREAMING_CATEGORY",
+      "key": "streaming_category"
+    },
+    {
+      "symbol": "STREAMING_SHOW_STREAM_PREVIEWS",
+      "key": "streaming_show_stream_previews"
+    },
+    {
+      "symbol": "STREAMING_ADVANCED_ACCORDION",
+      "key": "streaming_advanced_accordion"
+    },
+    {
+      "symbol": "STREAMING_STREAM_ATTENUATION",
+      "key": "streaming_stream_attenuation"
+    },
+    {
+      "symbol": "STREAMING_STREAM_ATTENUATION_STRENGTH",
+      "key": "streaming_stream_attenuation_strength"
+    },
+    {
+      "symbol": "STREAMING_OS_MENU_SCREEN_CAPTURE",
+      "key": "streaming_os_menu_screen_capture"
+    },
+    {
+      "symbol": "STREAMING_EXPERIMENTAL_SOUNDSHARE",
+      "key": "streaming_experimental_soundshare"
+    },
+    {
+      "symbol": "STREAMING_ADVANCED_SCREENSHARE",
+      "key": "streaming_advanced_screenshare"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_DIAGNOSTICS_CATEGORY",
+      "key": "voice_and_video_diagnostics_category"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_DIAGNOSTICS_ACCORDION",
+      "key": "voice_and_video_diagnostics_accordion"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_STREAM_INFO_OVERLAY",
+      "key": "voice_and_video_stream_info_overlay"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_AUDIO_RECORDING",
+      "key": "voice_and_video_audio_recording"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_RECORD_CONNECTION_REPLAY",
+      "key": "voice_and_video_record_connection_replay"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_OPEN_CONNECTION_REPLAY",
+      "key": "voice_and_video_open_connection_replay"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_DEBUG_LOGGING",
+      "key": "voice_and_video_debug_logging"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_OPENH264",
+      "key": "voice_and_video_openh264"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_RESET_ALL_SETTINGS",
+      "key": "voice_and_video_reset_all_settings"
+    },
+    {
+      "symbol": "SOUNDS_CATEGORY",
+      "key": "sounds_category"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_SOUNDS_LIST",
+      "key": "voice_and_video_sounds_list"
+    },
+    {
+      "symbol": "SOUNDS_HOLIDAY_NOTICE",
+      "key": "sounds_holiday_notice"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_SOUNDS_RELATED_SETTINGS",
+      "key": "voice_and_video_sounds_related_settings"
+    },
+    {
+      "symbol": "VOICE_AND_VIDEO_TO_NOTIFICATION_SOUNDS_NAVIGATOR",
+      "key": "voice_and_video_to_notification_sounds_navigator"
+    },
+    {
+      "symbol": "SOUNDBOARD_CATEGORY",
+      "key": "soundboard_category"
+    },
+    {
+      "symbol": "SOUNDBOARD_VOLUME_SETTING",
+      "key": "soundboard_volume_setting"
+    },
+    {
+      "symbol": "SOUNDMOJI_VOLUME_SETTING",
+      "key": "soundmoji_volume_setting"
+    },
+    {
+      "symbol": "ENTRANCE_SOUNDS_SETTING",
+      "key": "entrance_sounds_setting"
+    },
+    {
+      "symbol": "GUILD_ROOMS_CATEGORY",
+      "key": "guild_rooms_category"
+    },
+    {
+      "symbol": "GUILD_ROOMS_REMEMBER_LAST_VIEW_SETTING",
+      "key": "guild_rooms_remember_last_view_setting"
+    },
+    {
+      "symbol": "POGGERMODE_SIDEBAR_ITEM",
+      "key": "poggermode_sidebar_item"
+    },
+    {
+      "symbol": "POGGERMODE_PANEL",
+      "key": "poggermode_panel"
+    },
+    {
+      "symbol": "POGGERMODE_CATEGORY",
+      "key": "poggermode_category"
+    },
+    {
+      "symbol": "POGGERMODE_SETTING",
+      "key": "poggermode_setting"
+    },
+    {
+      "symbol": "SYSTEM_SIDEBAR_ITEM",
+      "key": "system_sidebar_item"
+    },
+    {
+      "symbol": "SYSTEM_PANEL",
+      "key": "system_panel"
+    },
+    {
+      "symbol": "SYSTEM_GENERAL_CATEGORY",
+      "key": "system_general_category"
+    },
+    {
+      "symbol": "SYSTEM_CUSTOM_KEYBINDS_CATEGORY",
+      "key": "system_custom_keybinds_category"
+    },
+    {
+      "symbol": "CUSTOM_KEYBINDS_SETTING",
+      "key": "custom_keybinds_setting"
+    },
+    {
+      "symbol": "SYSTEM_DEFAULT_KEYBINDS_CATEGORY",
+      "key": "system_default_keybinds_category"
+    },
+    {
+      "symbol": "DEFAULT_KEYBINDS_SETTING",
+      "key": "default_keybinds_setting"
+    },
+    {
+      "symbol": "SYSTEM_HELPER_CATEGORY",
+      "key": "system_helper_category"
+    },
+    {
+      "symbol": "SYSTEM_ADVANCED_CATEGORY",
+      "key": "system_advanced_category"
+    },
+    {
+      "symbol": "OS_OPEN_ON_STARTUP",
+      "key": "os_open_on_startup"
+    },
+    {
+      "symbol": "OS_START_MINIMIZED",
+      "key": "os_start_minimized"
+    },
+    {
+      "symbol": "OS_MINIMIZE_TO_TRAY",
+      "key": "os_minimize_to_tray"
+    },
+    {
+      "symbol": "OS_SYSTEM_SERVICE",
+      "key": "os_system_service"
+    },
+    {
+      "symbol": "CAPTURE_PERFORMANCE_TRACE",
+      "key": "capture_performance_trace"
+    },
+    {
+      "symbol": "LANGUAGE_AND_TIME_PANEL",
+      "key": "language_and_time_panel"
+    },
+    {
+      "symbol": "LANGUAGE_AND_TIME_CATEGORY",
+      "key": "language_and_time_category"
+    },
+    {
+      "symbol": "LANGUAGE_AND_TIME_SIDEBAR_ITEM",
+      "key": "language_and_time_sidebar_item"
+    },
+    {
+      "symbol": "LANGUAGE_SELECT_SETTING",
+      "key": "language_select_setting"
+    },
+    {
+      "symbol": "TIME_FORMAT_SETTING",
+      "key": "time_format_setting"
+    },
+    {
+      "symbol": "GAMES_AND_APPS_SECTION",
+      "key": "games_and_apps_section"
+    },
+    {
+      "symbol": "CONNECTED_APPS_SIDEBAR_ITEM",
+      "key": "connected_apps_sidebar_item"
+    },
+    {
+      "symbol": "CONNECTED_APPS_PANEL",
+      "key": "connected_apps_panel"
+    },
+    {
+      "symbol": "CONNECTIONS_CATEGORY",
+      "key": "connections_category"
+    },
+    {
+      "symbol": "AUTHORIZED_APPS_CATEGORY",
+      "key": "authorized_apps_category"
+    },
+    {
+      "symbol": "AUTHORIZED_APPS_LIST_SETTING",
+      "key": "authorized_apps_list_setting"
+    },
+    {
+      "symbol": "CONNECTIONS_ADD_CONNECTIONS_SETTING",
+      "key": "connections_add_connections_setting"
+    },
+    {
+      "symbol": "CONNECTIONS_CONNECTED_ACCOUNTS_SETTING",
+      "key": "connections_connected_accounts_setting"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_SIDEBAR_ITEM",
+      "key": "activity_privacy_sidebar_item"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_PANEL",
+      "key": "activity_privacy_panel"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_SHARING_CATEGORY",
+      "key": "activity_sharing_category"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_PER_GUILD_CATEGORY",
+      "key": "activity_sharing_per_guild_category"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_PER_GUILD_DEFAULT_SETTING",
+      "key": "activity_sharing_per_guild_default_setting"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_PER_GUILD_SETTING",
+      "key": "activity_sharing_per_guild_setting"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_RELATED_SETTINGS",
+      "key": "activity_privacy_related_settings"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_TO_PROFILE_PRIVACY_NAVIGATOR",
+      "key": "activity_privacy_to_profile_privacy_navigator"
+    },
+    {
+      "symbol": "ACTIVITY_SHARING_RELATED_SETTINGS",
+      "key": "activity_sharing_related_settings"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_TO_REGISTERED_GAMES_NAVIGATOR",
+      "key": "activity_privacy_to_registered_games_navigator"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_GAME_JOINING_CATEGORY",
+      "key": "activity_sharing_game_joining_category"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_GAME_JOINING_BLURB",
+      "key": "activity_privacy_game_joining_blurb"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_SETTING",
+      "key": "activity_privacy_setting"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_FRIENDS_JOIN_SETTING",
+      "key": "activity_privacy_friends_join_setting"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_VOICE_JOIN_SETTING",
+      "key": "activity_privacy_voice_join_setting"
+    },
+    {
+      "symbol": "ACTIVITY_PRIVACY_NOTIFY_FRIENDS_ONLINE_SETTING",
+      "key": "activity_privacy_notify_friends_online_setting"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_SIDEBAR_ITEM",
+      "key": "registered_games_sidebar_item"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_PANEL",
+      "key": "registered_games_panel"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_CURRENT_GAME_CATEGORY",
+      "key": "registered_games_current_game_category"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_ADDED_GAMES_CATEGORY",
+      "key": "registered_games_added_games_category"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_CURRENT_GAME_SETTING",
+      "key": "registered_games_current_game_setting"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_ADDED_GAMES_SETTING",
+      "key": "registered_games_added_games_setting"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_RELATED_SETTINGS",
+      "key": "registered_games_related_settings"
+    },
+    {
+      "symbol": "REGISTERED_GAMES_TO_ACTIVITY_PRIVACY_NAVIGATOR",
+      "key": "registered_games_to_activity_privacy_navigator"
+    },
+    {
+      "symbol": "OVERLAY_SIDEBAR_ITEM",
+      "key": "overlay_sidebar_item"
+    },
+    {
+      "symbol": "OVERLAY_PANEL",
+      "key": "overlay_panel"
+    },
+    {
+      "symbol": "OVERLAY_ENABLE_CATEGORY",
+      "key": "overlay_enable_category"
+    },
+    {
+      "symbol": "OVERLAY_CURRENT_GAME",
+      "key": "overlay_current_game"
+    },
+    {
+      "symbol": "OVERLAY_OOP_SETTING",
+      "key": "overlay_oop_setting"
+    },
+    {
+      "symbol": "OVERLAY_LEGACY_SETTING",
+      "key": "overlay_legacy_setting"
+    },
+    {
+      "symbol": "OVERLAY_BUG_REPORTER_SETTING",
+      "key": "overlay_bug_reporter_setting"
+    },
+    {
+      "symbol": "OVERLAY_GENERAL_CATEGORY",
+      "key": "overlay_general_category"
+    },
+    {
+      "symbol": "OVERLAY_KEYBIND_SETTING",
+      "key": "overlay_keybind_setting"
+    },
+    {
+      "symbol": "OVERLAY_LIMITED_INTERACTION_OVERRIDE_SETTING",
+      "key": "overlay_limited_interaction_override_setting"
+    },
+    {
+      "symbol": "OVERLAY_CLICKABLE_REGIONS_SETTING",
+      "key": "overlay_clickable_regions_setting"
+    },
+    {
+      "symbol": "OVERLAY_VOICE_WIDGET_CATEGORY",
+      "key": "overlay_voice_widget_category"
+    },
+    {
+      "symbol": "OVERLAY_VOICE_WIDGET_PREVIEW",
+      "key": "overlay_voice_widget_preview"
+    },
+    {
+      "symbol": "OVERLAY_VOICE_WIDGET_AVATAR_SIZE",
+      "key": "overlay_voice_widget_avatar_size"
+    },
+    {
+      "symbol": "OVERLAY_VOICE_WIDGET_DISPLAY_NAMES",
+      "key": "overlay_voice_widget_display_names"
+    },
+    {
+      "symbol": "OVERLAY_VOICE_WIDGET_DISPLAY_USERS",
+      "key": "overlay_voice_widget_display_users"
+    },
+    {
+      "symbol": "OVERLAY_VOICE_WIDGET_MAX_USERS",
+      "key": "overlay_voice_widget_max_users"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_CATEGORY",
+      "key": "overlay_notifications_category"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_LIST",
+      "key": "overlay_notifications_list"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_TEXT_CHAT",
+      "key": "overlay_notifications_text_chat"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_WELCOME",
+      "key": "overlay_notifications_welcome"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_GO_LIVE",
+      "key": "overlay_notifications_go_live"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_GAME_ACTIVITY",
+      "key": "overlay_notifications_game_activity"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_NOW_PLAYING",
+      "key": "overlay_notifications_now_playing"
+    },
+    {
+      "symbol": "OVERLAY_NOTIFICATIONS_NOW_PLAYING_DIFFERENT_GAMES",
+      "key": "overlay_notifications_now_playing_different_games"
+    },
+    {
+      "symbol": "DEVELOPER_SECTION",
+      "key": "developer_section"
+    },
+    {
+      "symbol": "EXPERIMENTS_SIDEBAR_ITEM",
+      "key": "experiments_sidebar_item"
+    },
+    {
+      "symbol": "EXPERIMENTS_PANEL",
+      "key": "experiments_panel"
+    },
+    {
+      "symbol": "EXPERIMENTS_CATEGORY",
+      "key": "experiments_category"
+    },
+    {
+      "symbol": "EXPERIMENTS_SETTING",
+      "key": "experiments_setting"
+    },
+    {
+      "symbol": "DEVELOPER_OPTIONS_SIDEBAR_ITEM",
+      "key": "developer_options_sidebar_item"
+    },
+    {
+      "symbol": "DEVELOPER_OPTIONS_PANEL",
+      "key": "developer_options_panel"
+    },
+    {
+      "symbol": "LOAD_SOURCE_MAPS",
+      "key": "load_source_maps"
+    },
+    {
+      "symbol": "BUILD_OVERRIDES",
+      "key": "build_overrides"
+    },
+    {
+      "symbol": "DEV_OVERRIDES",
+      "key": "dev_overrides"
+    },
+    {
+      "symbol": "PREMIUM_TYPE_OVERRIDE",
+      "key": "premium_type_override"
+    },
+    {
+      "symbol": "SURVEY_OVERRIDE",
+      "key": "survey_override"
+    },
+    {
+      "symbol": "ACTION_TRIGGERED_SURVEY_OVERRIDE",
+      "key": "action_triggered_survey_override"
+    },
+    {
+      "symbol": "CHANGE_LOG_OVERRIDE",
+      "key": "change_log_override"
+    },
+    {
+      "symbol": "CHANGE_LOG_CLEAR",
+      "key": "change_log_clear"
+    },
+    {
+      "symbol": "FORCE_CANARY_API",
+      "key": "force_canary_api"
+    },
+    {
+      "symbol": "AD_OVERRIDE",
+      "key": "ad_override"
+    },
+    {
+      "symbol": "ONLY_SHOW_PREVIEW_APP_COLLECTIONS",
+      "key": "only_show_preview_app_collections"
+    },
+    {
+      "symbol": "DISABLE_APP_COLLECTIONS_CACHE",
+      "key": "disable_app_collections_cache"
+    },
+    {
+      "symbol": "DISCORD_STATS_POPOUT",
+      "key": "discord_stats_popout"
+    },
+    {
+      "symbol": "ENABLE_TABS_EXPERIENCE",
+      "key": "enable_tabs_experience"
+    },
+    {
+      "symbol": "LOGGING",
+      "key": "logging"
+    },
+    {
+      "symbol": "GATEWAY_LOGS",
+      "key": "gateway_logs"
+    },
+    {
+      "symbol": "OVERLAY_RPC_LOGS",
+      "key": "overlay_rpc_logs"
+    },
+    {
+      "symbol": "ANALYTICS_LOGS",
+      "key": "analytics_logs"
+    },
+    {
+      "symbol": "KEYBOARD_MISMATCHES",
+      "key": "keyboard_mismatches"
+    },
+    {
+      "symbol": "REQUEST_TRACING",
+      "key": "request_tracing"
+    },
+    {
+      "symbol": "KEEP_POPOUTS_OPEN",
+      "key": "keep_popouts_open"
+    },
+    {
+      "symbol": "QUEST_LOGGING",
+      "key": "quest_logging"
+    },
+    {
+      "symbol": "DESIGN_TOOLS",
+      "key": "design_tools"
+    },
+    {
+      "symbol": "CSS_DEBUGGING",
+      "key": "css_debugging"
+    },
+    {
+      "symbol": "LAYOUT_DEBUGGING",
+      "key": "layout_debugging"
+    },
+    {
+      "symbol": "LAYOUT_DEBUGGING_HORIZONTAL_SPACING",
+      "key": "layout_debugging_horizontal_spacing"
+    },
+    {
+      "symbol": "LAYOUT_DEBUGGING_VERTICAL_SPACING",
+      "key": "layout_debugging_vertical_spacing"
+    },
+    {
+      "symbol": "HIGHLIGHT_MANA_COMPONENTS",
+      "key": "highlight_mana_components"
+    },
+    {
+      "symbol": "HIGHLIGHT_MANA_TEXT",
+      "key": "highlight_mana_text"
+    },
+    {
+      "symbol": "HIGHLIGHT_MANA_TEXT_OVERRIDES",
+      "key": "highlight_mana_text_overrides"
+    },
+    {
+      "symbol": "HIGHLIGHT_VOID_COMPONENTS",
+      "key": "highlight_void_components"
+    },
+    {
+      "symbol": "AXE_AUDITING",
+      "key": "axe_auditing"
+    },
+    {
+      "symbol": "UTILITY_SECTION",
+      "key": "utility_section"
+    },
+    {
+      "symbol": "DEVELOPER_SIDEBAR_ITEM",
+      "key": "developer_sidebar_item"
+    },
+    {
+      "symbol": "DEVELOPER_PANEL",
+      "key": "developer_panel"
+    },
+    {
+      "symbol": "DEVELOPER_CATEGORY",
+      "key": "developer_category"
+    },
+    {
+      "symbol": "DEVELOPER_MODE",
+      "key": "developer_mode"
+    },
+    {
+      "symbol": "APPLICATION_TEST_MODE",
+      "key": "application_test_mode"
+    },
+    {
+      "symbol": "LOGOUT_SIDEBAR_ITEM",
+      "key": "logout_sidebar_item"
+    }
+  ]
+}

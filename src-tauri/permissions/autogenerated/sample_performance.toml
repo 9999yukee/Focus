@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-sample-performance"
+description = "Enables the sample_performance command without any pre-configured scope."
+commands.allow = ["sample_performance"]
+
+[[permission]]
+identifier = "deny-sample-performance"
+description = "Denies the sample_performance command without any pre-configured scope."
+commands.deny = ["sample_performance"]

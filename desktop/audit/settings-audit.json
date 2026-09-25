@@ -1,0 +1,3358 @@
+{
+  "source": "https://discord.com/assets/web.352b0482a8b3b388.js",
+  "date": "2026-09-23",
+  "counts": {
+    "keep": 335,
+    "remove": 52,
+    "replace": 13,
+    "performance": 78
+  },
+  "entries": [
+    {
+      "key": "profile_section",
+      "symbol": "PROFILE_SECTION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "profile_sidebar_item",
+      "symbol": "PROFILE_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "profile_sidebar_item_wysiwyg",
+      "symbol": "PROFILE_SIDEBAR_ITEM_WYSIWYG",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "profile_panel",
+      "symbol": "PROFILE_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "profile_category",
+      "symbol": "PROFILE_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "profile_setting",
+      "symbol": "PROFILE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "user_section",
+      "symbol": "USER_SECTION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_sidebar_item",
+      "symbol": "ACCOUNT_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_panel",
+      "symbol": "ACCOUNT_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_category",
+      "symbol": "ACCOUNT_INFO_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_username_setting",
+      "symbol": "ACCOUNT_INFO_USERNAME_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_claim_account_setting",
+      "symbol": "ACCOUNT_INFO_CLAIM_ACCOUNT_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_email_setting",
+      "symbol": "ACCOUNT_INFO_EMAIL_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_phone_setting",
+      "symbol": "ACCOUNT_INFO_PHONE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_password_security_category",
+      "symbol": "ACCOUNT_PASSWORD_SECURITY_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_change_password_setting",
+      "symbol": "ACCOUNT_CHANGE_PASSWORD_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_mfa_nested_panel",
+      "symbol": "ACCOUNT_MFA_NESTED_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "multi_factor_authentication",
+      "symbol": "MULTI_FACTOR_AUTHENTICATION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "security_keys_category",
+      "symbol": "SECURITY_KEYS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "security_keys_list",
+      "symbol": "SECURITY_KEYS_LIST",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "authenticator_app_category",
+      "symbol": "AUTHENTICATOR_APP_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "authenticator_app_disable_button",
+      "symbol": "AUTHENTICATOR_APP_DISABLE_BUTTON",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sms_auth_category",
+      "symbol": "SMS_AUTH_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sms_auth_disable_button",
+      "symbol": "SMS_AUTH_DISABLE_BUTTON",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "backup_codes_category",
+      "symbol": "BACKUP_CODES_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "backup_codes_setting",
+      "symbol": "BACKUP_CODES_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_sessions_nested_panel",
+      "symbol": "ACCOUNT_SESSIONS_NESTED_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sessions_panel",
+      "symbol": "SESSIONS_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sessions_sessions_category",
+      "symbol": "SESSIONS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sessions_current_session_setting",
+      "symbol": "SESSIONS_CURRENT_SESSION_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sessions_other_sessions_setting",
+      "symbol": "SESSIONS_OTHER_SESSIONS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sessions_logout_all_sessions_setting",
+      "symbol": "SESSIONS_LOGOUT_ALL_SESSIONS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_standing_nested_panel",
+      "symbol": "ACCOUNT_STANDING_NESTED_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_standing_nested_category",
+      "symbol": "ACCOUNT_STANDING_NESTED_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_standing_panel",
+      "symbol": "ACCOUNT_STANDING_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_standing_category",
+      "symbol": "ACCOUNT_STANDING_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_standing_setting",
+      "symbol": "ACCOUNT_STANDING_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_age_group_verify_setting",
+      "symbol": "ACCOUNT_INFO_AGE_GROUP_VERIFY_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_age_group_edit_setting",
+      "symbol": "ACCOUNT_INFO_AGE_GROUP_EDIT_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_info_age_group_info_setting",
+      "symbol": "ACCOUNT_INFO_AGE_GROUP_INFO_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_status_age_group_verify_setting",
+      "symbol": "ACCOUNT_STATUS_AGE_GROUP_VERIFY_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_status_age_group_edit_setting",
+      "symbol": "ACCOUNT_STATUS_AGE_GROUP_EDIT_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_status_age_group_info_setting",
+      "symbol": "ACCOUNT_STATUS_AGE_GROUP_INFO_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_family_center_category",
+      "symbol": "ACCOUNT_FAMILY_CENTER_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_family_center_nested_panel",
+      "symbol": "ACCOUNT_FAMILY_CENTER_NESTED_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "family_center_panel",
+      "symbol": "FAMILY_CENTER_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "family_center_category",
+      "symbol": "FAMILY_CENTER_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "family_center_setting",
+      "symbol": "FAMILY_CENTER_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_removal_category",
+      "symbol": "ACCOUNT_REMOVAL_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_disable_setting",
+      "symbol": "ACCOUNT_DISABLE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "account_delete_setting",
+      "symbol": "ACCOUNT_DELETE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "messaging_permissions_sidebar_item",
+      "symbol": "MESSAGING_PERMISSIONS_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "messaging_permissions_panel",
+      "symbol": "MESSAGING_PERMISSIONS_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "content_filters_related_settings",
+      "symbol": "CONTENT_FILTERS_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "content_filters_appearance_navigator",
+      "symbol": "CONTENT_FILTERS_APPEARANCE_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connected_games_related_settings",
+      "symbol": "CONNECTED_GAMES_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connected_games_authorized_apps_navigator",
+      "symbol": "CONNECTED_GAMES_AUTHORIZED_APPS_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connected_games_unavailable",
+      "symbol": "CONNECTED_GAMES_UNAVAILABLE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "content_category",
+      "symbol": "CONTENT_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "spam_filters_category",
+      "symbol": "SPAM_FILTERS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "permissions_category",
+      "symbol": "PERMISSIONS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_requests_category",
+      "symbol": "FRIEND_REQUESTS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "restricted_users_category",
+      "symbol": "RESTRICTED_USERS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connected_games_category",
+      "symbol": "CONNECTED_GAMES_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "content_filters_setting",
+      "symbol": "CONTENT_FILTERS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "dm_spam_setting",
+      "symbol": "DM_SPAM_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "dm_safety_alerts_setting",
+      "symbol": "DM_SAFETY_ALERTS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "age_restricted_dm_setting",
+      "symbol": "AGE_RESTRICTED_DM_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "age_restricted_ios_setting",
+      "symbol": "AGE_RESTRICTED_IOS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "permissions_guild_selector",
+      "symbol": "PERMISSIONS_GUILD_SELECTOR",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "permissions_dms_setting",
+      "symbol": "PERMISSIONS_DMS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "permissions_message_requests_setting",
+      "symbol": "PERMISSIONS_MESSAGE_REQUESTS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "message_requests_notice_setting",
+      "symbol": "MESSAGE_REQUESTS_NOTICE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_requests_everyone_setting",
+      "symbol": "FRIEND_REQUESTS_EVERYONE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_requests_mutual_friends_setting",
+      "symbol": "FRIEND_REQUESTS_MUTUAL_FRIENDS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_requests_mutual_guilds_setting",
+      "symbol": "FRIEND_REQUESTS_MUTUAL_GUILDS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "blocked_users",
+      "symbol": "BLOCKED_USERS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "ignored_users",
+      "symbol": "IGNORED_USERS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "allow_game_friend_dms_setting",
+      "symbol": "ALLOW_GAME_FRIEND_DMS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "in_game_dms_setting",
+      "symbol": "IN_GAME_DMS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_requests_notes_setting",
+      "symbol": "FRIEND_REQUESTS_NOTES_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_requests_fieldset",
+      "symbol": "FRIEND_REQUESTS_FIELDSET",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "data_and_privacy_sidebar_item",
+      "symbol": "DATA_AND_PRIVACY_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_and_privacy_panel",
+      "symbol": "DATA_AND_PRIVACY_PANEL",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "profile_privacy_category",
+      "symbol": "PROFILE_PRIVACY_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "profile_privacy_setting",
+      "symbol": "PROFILE_PRIVACY_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "notify_friends_on_profile_update_setting",
+      "symbol": "NOTIFY_FRIENDS_ON_PROFILE_UPDATE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "profile_privacy_related_settings",
+      "symbol": "PROFILE_PRIVACY_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "profile_privacy_to_activity_privacy_navigator",
+      "symbol": "PROFILE_PRIVACY_TO_ACTIVITY_PRIVACY_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_category",
+      "symbol": "DATA_USAGE_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_statistics_setting",
+      "symbol": "DATA_USAGE_STATISTICS_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_quests_setting",
+      "symbol": "DATA_USAGE_QUESTS_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_quests_3p_setting",
+      "symbol": "DATA_USAGE_QUESTS_3P_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_personalization_setting",
+      "symbol": "DATA_USAGE_PERSONALIZATION_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_disclaimer_setting",
+      "symbol": "DATA_USAGE_DISCLAIMER_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_activity_privacy_navigator",
+      "symbol": "DATA_USAGE_ACTIVITY_PRIVACY_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_usage_related_settings",
+      "symbol": "DATA_USAGE_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "data_harvest_request_setting",
+      "symbol": "DATA_HARVEST_REQUEST_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sponsored_content_category",
+      "symbol": "SPONSORED_CONTENT_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "sponsored_content_quests_setting",
+      "symbol": "SPONSORED_CONTENT_QUESTS_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "sponsored_content_quests_3p_setting",
+      "symbol": "SPONSORED_CONTENT_QUESTS_3P_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "manage_sponsored_content_topics_setting",
+      "symbol": "MANAGE_SPONSORED_CONTENT_TOPICS_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "voice_security_category",
+      "symbol": "VOICE_SECURITY_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "persistent_verification_codes_setting",
+      "symbol": "PERSISTENT_VERIFICATION_CODES_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "users_verified_keys_list_setting",
+      "symbol": "USERS_VERIFIED_KEYS_LIST_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "clips_allow_voice_recording_setting",
+      "symbol": "CLIPS_ALLOW_VOICE_RECORDING_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "notifications_sidebar_item",
+      "symbol": "NOTIFICATIONS_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_panel",
+      "symbol": "NOTIFICATIONS_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_overview_category",
+      "symbol": "NOTIFICATIONS_OVERVIEW_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notification_selection_field_set",
+      "symbol": "NOTIFICATION_SELECTION_FIELD_SET",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "desktop_notifications",
+      "symbol": "DESKTOP_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "go_live_notifications",
+      "symbol": "GO_LIVE_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "reaction_notifications",
+      "symbol": "REACTION_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_online_notifications",
+      "symbol": "FRIEND_ONLINE_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "profile_updates_notifications",
+      "symbol": "PROFILE_UPDATES_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "friend_anniversary_notifications",
+      "symbol": "FRIEND_ANNIVERSARY_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "server_trending_notifications",
+      "symbol": "SERVER_TRENDING_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "upcoming_server_event_notifications",
+      "symbol": "UPCOMING_SERVER_EVENT_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "experimental_unreads",
+      "symbol": "EXPERIMENTAL_UNREADS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_sounds_category",
+      "symbol": "NOTIFICATIONS_SOUNDS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notification_holiday_soundpack",
+      "symbol": "NOTIFICATION_HOLIDAY_SOUNDPACK",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "notification_sounds_list",
+      "symbol": "NOTIFICATION_SOUNDS_LIST",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_sounds_related_settings",
+      "symbol": "NOTIFICATIONS_SOUNDS_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_to_voice_and_video_sounds_navigator",
+      "symbol": "NOTIFICATIONS_TO_VOICE_AND_VIDEO_SOUNDS_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sounds_list_item_",
+      "symbol": "SOUNDS_LIST_ITEM_PREFIX",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "selected_channel_notifications",
+      "symbol": "SELECTED_CHANNEL_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "disable_all_notification_sounds",
+      "symbol": "DISABLE_ALL_NOTIFICATION_SOUNDS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_badges_category",
+      "symbol": "NOTIFICATIONS_BADGES_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_unread_message_badge",
+      "symbol": "ENABLE_UNREAD_MESSAGE_BADGE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "task_bar_flashing",
+      "symbol": "TASK_BAR_FLASHING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "screen_downtime_reminder",
+      "symbol": "SCREEN_DOWNTIME_REMINDER",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "screen_downtime_schedule",
+      "symbol": "SCREEN_DOWNTIME_SCHEDULE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_email_category",
+      "symbol": "NOTIFICATIONS_EMAIL_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "email_list_item_",
+      "symbol": "EMAIL_LIST_ITEM_PREFIX",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "unsubscribe_from_all_marketing_emails",
+      "symbol": "UNSUBSCRIBE_FROM_ALL_MARKETING_EMAILS",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "notifications_advanced_category",
+      "symbol": "NOTIFICATIONS_ADVANCED_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "notifications_advanced_accordion",
+      "symbol": "NOTIFICATIONS_ADVANCED_ACCORDION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "mobile_notification_delay",
+      "symbol": "MOBILE_NOTIFICATION_DELAY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "text_to_speech_command",
+      "symbol": "TEXT_TO_SPEECH_COMMAND",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "text_to_speech_notifications",
+      "symbol": "TEXT_TO_SPEECH_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "clips_sidebar_item",
+      "symbol": "CLIPS_SIDEBAR_ITEM",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_panel",
+      "symbol": "CLIPS_PANEL",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_hardware_classification_warning",
+      "symbol": "CLIPS_HARDWARE_CLASSIFICATION_WARNING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_quality_infobox",
+      "symbol": "CLIPS_QUALITY_INFOBOX",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_enable",
+      "symbol": "CLIPS_ENABLE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_enable_reminders",
+      "symbol": "CLIPS_ENABLE_REMINDERS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_show_pov_clips",
+      "symbol": "CLIPS_SHOW_POV_CLIPS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_length",
+      "symbol": "CLIPS_LENGTH",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_resolution",
+      "symbol": "CLIPS_RESOLUTION",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_frame_rate",
+      "symbol": "CLIPS_FRAME_RATE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_bitrate",
+      "symbol": "CLIPS_BITRATE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_keybind",
+      "symbol": "CLIPS_KEYBIND",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_screenshot_keybind",
+      "symbol": "CLIPS_SCREENSHOT_KEYBIND",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_storage_location",
+      "symbol": "CLIPS_STORAGE_LOCATION",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_general_category",
+      "symbol": "CLIPS_GENERAL_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_general_card",
+      "symbol": "CLIPS_GENERAL_CARD",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_autoclipping_category",
+      "symbol": "CLIPS_AUTOCLIPPING_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_autoclipping_card",
+      "symbol": "CLIPS_AUTOCLIPPING_CARD",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_capture_settings_category",
+      "symbol": "CLIPS_CAPTURE_SETTINGS_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_storage_category",
+      "symbol": "CLIPS_STORAGE_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_enable_autoclipping",
+      "symbol": "CLIPS_ENABLE_AUTOCLIPPING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_developer_category",
+      "symbol": "CLIPS_DEVELOPER_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "clips_debug_tooltips",
+      "symbol": "CLIPS_DEBUG_TOOLTIPS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "billing_section",
+      "symbol": "BILLING_SECTION",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "nitro_sidebar_item",
+      "symbol": "NITRO_SIDEBAR_ITEM",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "nitro_panel",
+      "symbol": "NITRO_PANEL",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "nitro_category",
+      "symbol": "NITRO_CATEGORY",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "nitro_setting",
+      "symbol": "NITRO_SETTING",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "premium_guild_subscriptions_sidebar_item",
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "premium_guild_subscriptions_panel",
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_PANEL",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "premium_guild_subscriptions_category",
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "premium_guild_subscriptions_setting",
+      "symbol": "PREMIUM_GUILD_SUBSCRIPTIONS_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "subscriptions_sidebar_item",
+      "symbol": "SUBSCRIPTIONS_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "subscriptions_panel",
+      "symbol": "SUBSCRIPTIONS_PANEL",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "subscriptions_category",
+      "symbol": "SUBSCRIPTIONS_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "subscriptions_settings",
+      "symbol": "SUBSCRIPTIONS_SETTINGS",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "gift_sidebar_item",
+      "symbol": "GIFT_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "gift_panel",
+      "symbol": "GIFT_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "redeem_gift_category",
+      "symbol": "REDEEM_GIFT_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "redeem_code_input",
+      "symbol": "REDEEM_CODE_INPUT",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "my_gifts_category",
+      "symbol": "MY_GIFTS_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "my_gifts_content",
+      "symbol": "MY_GIFTS_CONTENT",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "purchased_gifts_category",
+      "symbol": "PURCHASED_GIFTS_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "purchased_gifts_content",
+      "symbol": "PURCHASED_GIFTS_CONTENT",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "gifting_badge_category",
+      "symbol": "GIFTING_BADGE_CATEGORY",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "gifting_badge_content",
+      "symbol": "GIFTING_BADGE_CONTENT",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "gift_blocked_payments_setting",
+      "symbol": "GIFT_BLOCKED_PAYMENTS_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "gift_blocked_payments_category",
+      "symbol": "GIFT_BLOCKED_PAYMENTS_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "billing_sidebar_item",
+      "symbol": "BILLING_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "billing_panel",
+      "symbol": "BILLING_PANEL",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "billing_payment_methods_category",
+      "symbol": "BILLING_PAYMENT_METHODS_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "billing_payment_methods",
+      "symbol": "BILLING_PAYMENT_METHODS",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "billing_transaction_history_category",
+      "symbol": "BILLING_TRANSACTION_HISTORY_CATEGORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "billing_transaction_history",
+      "symbol": "BILLING_TRANSACTION_HISTORY",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "app_section",
+      "symbol": "APP_SECTION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_sidebar_item",
+      "symbol": "APPEARANCE_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_panel",
+      "symbol": "APPEARANCE_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_theme_category",
+      "symbol": "APPEARANCE_THEME_CATEGORY",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_theme_fieldset",
+      "symbol": "APPEARANCE_THEME_FIELDSET",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_same_as_device_theme",
+      "symbol": "APPEARANCE_SAME_AS_DEVICE_THEME",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_dual_theme_selector",
+      "symbol": "APPEARANCE_DUAL_THEME_SELECTOR",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_default_themes",
+      "symbol": "APPEARANCE_DEFAULT_THEMES",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_dark_sidebar",
+      "symbol": "APPEARANCE_DARK_SIDEBAR",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_custom_themes_upsell",
+      "symbol": "APPEARANCE_CUSTOM_THEMES_UPSELL",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "appearance_client_themes",
+      "symbol": "APPEARANCE_CLIENT_THEMES",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_sync_theme",
+      "symbol": "APPEARANCE_SYNC_THEME",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "sync_profile_themes",
+      "symbol": "SYNC_PROFILE_THEMES",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_guild_theme_default_preference",
+      "symbol": "APPEARANCE_GUILD_THEME_DEFAULT_PREFERENCE",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_theme_related_settings",
+      "symbol": "APPEARANCE_THEME_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_theme_accessibility_navigator",
+      "symbol": "APPEARANCE_THEME_ACCESSIBLITY_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "appearance_in_app_icon_category",
+      "symbol": "APPEARANCE_IN_APP_ICON_CATEGORY",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_in_app_icon",
+      "symbol": "APPEARANCE_IN_APP_ICON",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_messages_category",
+      "symbol": "APPEARANCE_MESSAGES_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_inline_media_field_set",
+      "symbol": "CHAT_INLINE_FIELD_SET",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_inline_media_links",
+      "symbol": "CHAT_INLINE_MEDIA_LINKS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_inline_media_uploads",
+      "symbol": "CHAT_INLINE_MEDIA_UPLOADS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_embeds_render_embeds",
+      "symbol": "CHAT_EMBEDS_RENDER_EMBEDS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_emoji_render_reactions",
+      "symbol": "CHAT_EMOJI_RENDER_REACTIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_spoilers_show_spoilers",
+      "symbol": "CHAT_SPOILERS_SHOW_SPOILERS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_threads_split_view",
+      "symbol": "CHAT_THREADS_SPLIT_VIEW",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_display_compact_avatars",
+      "symbol": "APPEARANCE_DISPLAY_COMPACT_AVATARS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_favorites_toggle",
+      "symbol": "CHAT_FAVORITES_TOGGLE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_chat_related_settings",
+      "symbol": "APPEARANCE_CHAT_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_chat_accessibility_navigator",
+      "symbol": "APPEARANCE_CHAT_ACCESSIBLITY_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "appearance_chat_box_category",
+      "symbol": "APPEARANCE_CHAT_BOX_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_text_box_previews",
+      "symbol": "CHAT_TEXT_BOX_PREVIEWS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_emoji_convert_emoticons",
+      "symbol": "CHAT_EMOJI_CONVERT_EMOTICONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_stickers_autocomplete",
+      "symbol": "CHAT_STICKERS_AUTOCOMPLETE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_game_mentions_autocomplete",
+      "symbol": "CHAT_GAME_MENTIONS_AUTOCOMPLETE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_send_button",
+      "symbol": "ENABLE_SEND_BUTTON",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_send_button_outside_experiment",
+      "symbol": "ENABLE_SEND_BUTTON_OUTSIDE_EXPERIMENT",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_apps_button",
+      "symbol": "ENABLE_APPS_BUTTON",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "expression_picker_format",
+      "symbol": "EXPRESSION_PICKER_FORMAT",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "condense_picker_when_narrow",
+      "symbol": "CONDENSE_PICKER_WHEN_NARROW",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_emoji_button",
+      "symbol": "ENABLE_EMOJI_BUTTON",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_gif_button",
+      "symbol": "ENABLE_GIF_BUTTON",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_sticker_button",
+      "symbol": "ENABLE_STICKER_BUTTON",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "chat_bar_advanced_accordion",
+      "symbol": "CHAT_BAR_ADVANCED_ACCORDION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "expression_picker_field_set",
+      "symbol": "EXPRESSION_PICKER_FIELD_SET",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_search_category",
+      "symbol": "APPEARANCE_SEARCH_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "message_search_default_dm_search_behavior",
+      "symbol": "MESSAGE_SEARCH_DEFAULT_DM_SEARCH_BEHAVIOR",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streamer_mode_category",
+      "symbol": "STREAMER_MODE_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streaming_enable_streamer_mode",
+      "symbol": "STREAMING_STREAMER_MODE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_auto_streamer_mode",
+      "symbol": "STREAMING_AUTO_STREAMER_MODE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streamer_mode_options_list",
+      "symbol": "STREAMER_MODE_OPTIONS_LIST",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streamer_mode_hide_personal_information",
+      "symbol": "STREAMER_MODE_HIDE_PERSONAL_INFORMATION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streamer_mode_hide_invite_links",
+      "symbol": "STREAMER_MODE_HIDE_INVITE_LINKS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streamer_mode_disable_sounds",
+      "symbol": "STREAMER_MODE_DISABLE_SOUNDS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streamer_mode_disable_notifications",
+      "symbol": "STREAMER_MODE_DISABLE_NOTIFICATIONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streamer_mode_hide_discord_window_from_screen_capture",
+      "symbol": "STREAMER_MODE_HIDE_DISCORD_WINDOW_FROM_SCREEN_CAPTURE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "streamer_mode_hide_overlay_widgets",
+      "symbol": "STREAMER_MODE_HIDE_OVERLAY_WIDGETS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_advanced_category",
+      "symbol": "APPEARANCE_ADVANCED_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "hardware_acceleration",
+      "symbol": "HARDWARE_ACCELERATION",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "show_game_library",
+      "symbol": "SHOW_GAME_LIBRARY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "accessibility_sidebar_item",
+      "symbol": "ACCESSIBILITY_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "accessibility_panel",
+      "symbol": "ACCESSIBILITY_PANEL",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "text_readability_category",
+      "symbol": "TEXT_READABILITY_CATEGORY",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "appearance_font_scaling",
+      "symbol": "APPEARANCE_FONT_SCALING",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "underline_links",
+      "symbol": "UNDERLINE_LINKS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "display_name_styles",
+      "symbol": "DISPLAY_NAME_STYLES",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "visual_density_category",
+      "symbol": "VISUAL_DENSITY_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_ui_density",
+      "symbol": "APPEARANCE_UI_DENSITY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_message_display_mode",
+      "symbol": "APPEARANCE_MESSAGE_DISPLAY_MODE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "appearance_message_group_spacing",
+      "symbol": "APPEARANCE_MESSAGE_GROUP_SPACING",
+      "decision": "replace",
+      "reason": "Thèmes, icône et espacement gérés directement par Focus.",
+      "effect": "Évite deux contrôles contradictoires pour la même interface."
+    },
+    {
+      "key": "appearance_zoom",
+      "symbol": "APPEARANCE_ZOOM",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "color_and_contrast_category",
+      "symbol": "COLOR_AND_CONTRAST_CATEGORY",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "saturation",
+      "symbol": "SATURATION",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "desaturate_custom_colors",
+      "symbol": "DESATURATE_CUSTOM_COLORS",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "high_contrast_mode",
+      "symbol": "HIGH_CONTRAST_MODE",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "enable_custom_cursor",
+      "symbol": "ENABLE_CUSTOM_CURSOR",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sync_forced_colors",
+      "symbol": "SYNC_FORCED_COLORS",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "high_dynamic_range",
+      "symbol": "HIGH_DYNAMIC_RANGE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "role_style",
+      "symbol": "ROLE_STYLE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "official_message_style",
+      "symbol": "OFFICIAL_MESSAGE_STYLE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "enable_switch_icons",
+      "symbol": "ENABLE_SWITCH_ICONS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "color_and_contrast_related_settings",
+      "symbol": "COLOR_AND_CONTRAST_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "accessibility_to_display_navigator",
+      "symbol": "ACCESSIBILITY_TO_DISPLAY_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "motion",
+      "symbol": "MOTION_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "reduced_motion",
+      "symbol": "REDUCED_MOTION",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "sync_reduced_motion",
+      "symbol": "SYNC_REDUCED_MOTION",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "animate_gifs",
+      "symbol": "ANIMATE_GIFS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "animate_emojis",
+      "symbol": "ANIMATE_EMOJIS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "animate_stickers",
+      "symbol": "ANIMATE_STICKERS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "audio_and_screen_reader_category",
+      "symbol": "AUDIO_AND_SCREEN_READER_CATEGORY",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "tts_playback_rate",
+      "symbol": "TTS_PLAYBACK_RATE",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "chat_inline_media_image_descriptions",
+      "symbol": "CHAT_INLINE_MEDIA_IMAGE_DESCRIPTIONS",
+      "decision": "keep",
+      "reason": "Lisibilité ou accessibilité.",
+      "effect": "Le besoin utilisateur prime sur une économie supposée."
+    },
+    {
+      "key": "enable_legacy_chat_input",
+      "symbol": "ENABLE_LEGACY_CHAT_INPUT",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_sidebar_item",
+      "symbol": "VOICE_AND_VIDEO_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_panel",
+      "symbol": "VOICE_AND_VIDEO_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_category",
+      "symbol": "VOICE_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_input_output_device_split",
+      "symbol": "VOICE_INPUT_OUTPUT_DEVICE_SPLIT",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_microphone_input_select",
+      "symbol": "VOICE_MICROPHONE_INPUT_SELECT",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_speakers_output_select",
+      "symbol": "VOICE_SPEAKER_OUTPUT_SELECT",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_input_output_volume_split",
+      "symbol": "VOICE_INPUT_OUTPUT_VOLUME_SPLIT",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_input_volume_setting",
+      "symbol": "VOICE_INPUT_VOLUME_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_output_volume_setting",
+      "symbol": "VOICE_OUTPUT_VOLUME_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_microphone_test_setting",
+      "symbol": "VOICE_MICROPHONE_TEST_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_input_profile_category",
+      "symbol": "VOICE_INPUT_PROFILE_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_input_profile_setting",
+      "symbol": "VOICE_INPUT_PROFILE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_push_to_talk_setting",
+      "symbol": "VOICE_PUSH_TO_TALK_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_push_to_talk_keybind_setting",
+      "symbol": "VOICE_PUSH_TO_TALK_KEYBIND_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_push_to_talk_release_delay_setting",
+      "symbol": "VOICE_PUSH_TO_TALK_RELEASE_DELAY_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_noise_suppression_setting",
+      "symbol": "VOICE_NOISE_SUPPRESSION_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "input_profile_voice_advanced_accordion",
+      "symbol": "INPUT_PROFILE_VOICE_ADVANCED_ACCORDION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_input_sensitivity_field_set",
+      "symbol": "VOICE_INPUT_SENSITIVITY_FIELD_SET",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_echo_cancellation_setting",
+      "symbol": "VOICE_ECHO_CANCELLATION_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "voice_spatial_audio_setting",
+      "symbol": "VOICE_SPATIAL_AUDIO_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "advanced_voice_activity_processing_setting",
+      "symbol": "ADVANCED_VOICE_ACTIVITY_PROCESSING_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "voice_automatic_gain_control_setting",
+      "symbol": "VOICE_AUTOMATIC_GAIN_CONTROL_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "voice_bypass_system_input_processing_setting",
+      "symbol": "VOICE_BYPASS_SYSTEM_INPUT_PROCESSING_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_audio_device_suggestions_setting",
+      "symbol": "VOICE_AUDIO_DEVICE_SUGGESTIONS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_silence_warning_setting",
+      "symbol": "VOICE_SILENCE_WARNING_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_switch_channel_alert_setting",
+      "symbol": "VOICE_SWITCH_CHANNEL_ALERT_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_global_attenuation_field_set",
+      "symbol": "VOICE_GLOBAL_ATTENUATION_FIELD_SET",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_global_attenuation_slider",
+      "symbol": "VOICE_GLOBAL_ATTENUATION_SLIDER",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_global_attenuation_for_self_setting",
+      "symbol": "VOICE_GLOBAL_ATTENUATION_FOR_SELF_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_global_attenuation_for_others_setting",
+      "symbol": "VOICE_GLOBAL_ATTENUATION_FOR_OTHERS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_audio_subsystem_setting",
+      "symbol": "VOICE_AUDIO_SUBSYSTEM_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_quality_of_service_setting",
+      "symbol": "VOICE_QUALITY_OF_SERVICE_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "camera_category",
+      "symbol": "CAMERA_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "camera_video_preview",
+      "symbol": "CAMERA_VIDEO_PREVIEW",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "camera_preview_preference",
+      "symbol": "CAMERA_PREVIEW_PREFERENCE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "camera_selection_setting",
+      "symbol": "CAMERA_SELECTION_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "camera_background_setting",
+      "symbol": "CAMERA_BACKGROUND_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_category",
+      "symbol": "STREAMING_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_show_stream_previews",
+      "symbol": "STREAMING_SHOW_STREAM_PREVIEWS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_advanced_accordion",
+      "symbol": "STREAMING_ADVANCED_ACCORDION",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_stream_attenuation",
+      "symbol": "STREAMING_STREAM_ATTENUATION",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_stream_attenuation_strength",
+      "symbol": "STREAMING_STREAM_ATTENUATION_STRENGTH",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_os_menu_screen_capture",
+      "symbol": "STREAMING_OS_MENU_SCREEN_CAPTURE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_experimental_soundshare",
+      "symbol": "STREAMING_EXPERIMENTAL_SOUNDSHARE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "streaming_advanced_screenshare",
+      "symbol": "STREAMING_ADVANCED_SCREENSHARE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "voice_and_video_diagnostics_category",
+      "symbol": "VOICE_AND_VIDEO_DIAGNOSTICS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_diagnostics_accordion",
+      "symbol": "VOICE_AND_VIDEO_DIAGNOSTICS_ACCORDION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_stream_info_overlay",
+      "symbol": "VOICE_AND_VIDEO_STREAM_INFO_OVERLAY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_audio_recording",
+      "symbol": "VOICE_AND_VIDEO_AUDIO_RECORDING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "voice_and_video_record_connection_replay",
+      "symbol": "VOICE_AND_VIDEO_RECORD_CONNECTION_REPLAY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "voice_and_video_open_connection_replay",
+      "symbol": "VOICE_AND_VIDEO_OPEN_CONNECTION_REPLAY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_debug_logging",
+      "symbol": "VOICE_AND_VIDEO_DEBUG_LOGGING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "voice_and_video_openh264",
+      "symbol": "VOICE_AND_VIDEO_OPENH264",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_reset_all_settings",
+      "symbol": "VOICE_AND_VIDEO_RESET_ALL_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sounds_category",
+      "symbol": "SOUNDS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_sounds_list",
+      "symbol": "VOICE_AND_VIDEO_SOUNDS_LIST",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "sounds_holiday_notice",
+      "symbol": "SOUNDS_HOLIDAY_NOTICE",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "voice_and_video_sounds_related_settings",
+      "symbol": "VOICE_AND_VIDEO_SOUNDS_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "voice_and_video_to_notification_sounds_navigator",
+      "symbol": "VOICE_AND_VIDEO_TO_NOTIFICATION_SOUNDS_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "soundboard_category",
+      "symbol": "SOUNDBOARD_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "soundboard_volume_setting",
+      "symbol": "SOUNDBOARD_VOLUME_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "soundmoji_volume_setting",
+      "symbol": "SOUNDMOJI_VOLUME_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "entrance_sounds_setting",
+      "symbol": "ENTRANCE_SOUNDS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "guild_rooms_category",
+      "symbol": "GUILD_ROOMS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "guild_rooms_remember_last_view_setting",
+      "symbol": "GUILD_ROOMS_REMEMBER_LAST_VIEW_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "poggermode_sidebar_item",
+      "symbol": "POGGERMODE_SIDEBAR_ITEM",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "poggermode_panel",
+      "symbol": "POGGERMODE_PANEL",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "poggermode_category",
+      "symbol": "POGGERMODE_CATEGORY",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "poggermode_setting",
+      "symbol": "POGGERMODE_SETTING",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "system_sidebar_item",
+      "symbol": "SYSTEM_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "system_panel",
+      "symbol": "SYSTEM_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "system_general_category",
+      "symbol": "SYSTEM_GENERAL_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "system_custom_keybinds_category",
+      "symbol": "SYSTEM_CUSTOM_KEYBINDS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "custom_keybinds_setting",
+      "symbol": "CUSTOM_KEYBINDS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "system_default_keybinds_category",
+      "symbol": "SYSTEM_DEFAULT_KEYBINDS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "default_keybinds_setting",
+      "symbol": "DEFAULT_KEYBINDS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "system_helper_category",
+      "symbol": "SYSTEM_HELPER_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "system_advanced_category",
+      "symbol": "SYSTEM_ADVANCED_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "os_open_on_startup",
+      "symbol": "OS_OPEN_ON_STARTUP",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "os_start_minimized",
+      "symbol": "OS_START_MINIMIZED",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "os_minimize_to_tray",
+      "symbol": "OS_MINIMIZE_TO_TRAY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "os_system_service",
+      "symbol": "OS_SYSTEM_SERVICE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "capture_performance_trace",
+      "symbol": "CAPTURE_PERFORMANCE_TRACE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "language_and_time_panel",
+      "symbol": "LANGUAGE_AND_TIME_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "language_and_time_category",
+      "symbol": "LANGUAGE_AND_TIME_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "language_and_time_sidebar_item",
+      "symbol": "LANGUAGE_AND_TIME_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "language_select_setting",
+      "symbol": "LANGUAGE_SELECT_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "time_format_setting",
+      "symbol": "TIME_FORMAT_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "games_and_apps_section",
+      "symbol": "GAMES_AND_APPS_SECTION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connected_apps_sidebar_item",
+      "symbol": "CONNECTED_APPS_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connected_apps_panel",
+      "symbol": "CONNECTED_APPS_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connections_category",
+      "symbol": "CONNECTIONS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "authorized_apps_category",
+      "symbol": "AUTHORIZED_APPS_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "authorized_apps_list_setting",
+      "symbol": "AUTHORIZED_APPS_LIST_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connections_add_connections_setting",
+      "symbol": "CONNECTIONS_ADD_CONNECTIONS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "connections_connected_accounts_setting",
+      "symbol": "CONNECTIONS_CONNECTED_ACCOUNTS_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "activity_privacy_sidebar_item",
+      "symbol": "ACTIVITY_PRIVACY_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_privacy_panel",
+      "symbol": "ACTIVITY_PRIVACY_PANEL",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_sharing_category",
+      "symbol": "ACTIVITY_PRIVACY_SHARING_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "activity_sharing_per_guild_category",
+      "symbol": "ACTIVITY_PRIVACY_PER_GUILD_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "activity_sharing_per_guild_default_setting",
+      "symbol": "ACTIVITY_PRIVACY_PER_GUILD_DEFAULT_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "activity_sharing_per_guild_setting",
+      "symbol": "ACTIVITY_PRIVACY_PER_GUILD_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "activity_privacy_related_settings",
+      "symbol": "ACTIVITY_PRIVACY_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_privacy_to_profile_privacy_navigator",
+      "symbol": "ACTIVITY_PRIVACY_TO_PROFILE_PRIVACY_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_sharing_related_settings",
+      "symbol": "ACTIVITY_SHARING_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "activity_privacy_to_registered_games_navigator",
+      "symbol": "ACTIVITY_PRIVACY_TO_REGISTERED_GAMES_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_sharing_game_joining_category",
+      "symbol": "ACTIVITY_PRIVACY_GAME_JOINING_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "activity_privacy_game_joining_blurb",
+      "symbol": "ACTIVITY_PRIVACY_GAME_JOINING_BLURB",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_privacy_setting",
+      "symbol": "ACTIVITY_PRIVACY_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_privacy_friends_join_setting",
+      "symbol": "ACTIVITY_PRIVACY_FRIENDS_JOIN_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_privacy_voice_join_setting",
+      "symbol": "ACTIVITY_PRIVACY_VOICE_JOIN_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "activity_privacy_notify_friends_online_setting",
+      "symbol": "ACTIVITY_PRIVACY_NOTIFY_FRIENDS_ONLINE_SETTING",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "registered_games_sidebar_item",
+      "symbol": "REGISTERED_GAMES_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "registered_games_panel",
+      "symbol": "REGISTERED_GAMES_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "registered_games_current_game_category",
+      "symbol": "REGISTERED_GAMES_CURRENT_GAME_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "registered_games_added_games_category",
+      "symbol": "REGISTERED_GAMES_ADDED_GAMES_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "registered_games_current_game_setting",
+      "symbol": "REGISTERED_GAMES_CURRENT_GAME_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "registered_games_added_games_setting",
+      "symbol": "REGISTERED_GAMES_ADDED_GAMES_SETTING",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "registered_games_related_settings",
+      "symbol": "REGISTERED_GAMES_RELATED_SETTINGS",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "registered_games_to_activity_privacy_navigator",
+      "symbol": "REGISTERED_GAMES_TO_ACTIVITY_PRIVACY_NAVIGATOR",
+      "decision": "keep",
+      "reason": "Contrôle des données, des achats ou des consentements.",
+      "effect": "Réglage natif conservé avec ses actions."
+    },
+    {
+      "key": "overlay_sidebar_item",
+      "symbol": "OVERLAY_SIDEBAR_ITEM",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_panel",
+      "symbol": "OVERLAY_PANEL",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_enable_category",
+      "symbol": "OVERLAY_ENABLE_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_current_game",
+      "symbol": "OVERLAY_CURRENT_GAME",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_oop_setting",
+      "symbol": "OVERLAY_OOP_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_legacy_setting",
+      "symbol": "OVERLAY_LEGACY_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_bug_reporter_setting",
+      "symbol": "OVERLAY_BUG_REPORTER_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_general_category",
+      "symbol": "OVERLAY_GENERAL_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_keybind_setting",
+      "symbol": "OVERLAY_KEYBIND_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_limited_interaction_override_setting",
+      "symbol": "OVERLAY_LIMITED_INTERACTION_OVERRIDE_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_clickable_regions_setting",
+      "symbol": "OVERLAY_CLICKABLE_REGIONS_SETTING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_voice_widget_category",
+      "symbol": "OVERLAY_VOICE_WIDGET_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_voice_widget_preview",
+      "symbol": "OVERLAY_VOICE_WIDGET_PREVIEW",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_voice_widget_avatar_size",
+      "symbol": "OVERLAY_VOICE_WIDGET_AVATAR_SIZE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_voice_widget_display_names",
+      "symbol": "OVERLAY_VOICE_WIDGET_DISPLAY_NAMES",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_voice_widget_display_users",
+      "symbol": "OVERLAY_VOICE_WIDGET_DISPLAY_USERS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_voice_widget_max_users",
+      "symbol": "OVERLAY_VOICE_WIDGET_MAX_USERS",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_category",
+      "symbol": "OVERLAY_NOTIFICATIONS_CATEGORY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_list",
+      "symbol": "OVERLAY_NOTIFICATIONS_LIST",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_text_chat",
+      "symbol": "OVERLAY_NOTIFICATIONS_TEXT_CHAT",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_welcome",
+      "symbol": "OVERLAY_NOTIFICATIONS_WELCOME",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_go_live",
+      "symbol": "OVERLAY_NOTIFICATIONS_GO_LIVE",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_game_activity",
+      "symbol": "OVERLAY_NOTIFICATIONS_GAME_ACTIVITY",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_now_playing",
+      "symbol": "OVERLAY_NOTIFICATIONS_NOW_PLAYING",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "overlay_notifications_now_playing_different_games",
+      "symbol": "OVERLAY_NOTIFICATIONS_NOW_PLAYING_DIFFERENT_GAMES",
+      "decision": "performance",
+      "reason": "Coût possible si la fonction est active ; utile selon le matériel et les usages.",
+      "effect": "Contrôle conservé pour pouvoir désactiver ou ajuster la fonction. Aucun changement silencieux."
+    },
+    {
+      "key": "developer_section",
+      "symbol": "DEVELOPER_SECTION",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "experiments_sidebar_item",
+      "symbol": "EXPERIMENTS_SIDEBAR_ITEM",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "experiments_panel",
+      "symbol": "EXPERIMENTS_PANEL",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "experiments_category",
+      "symbol": "EXPERIMENTS_CATEGORY",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "experiments_setting",
+      "symbol": "EXPERIMENTS_SETTING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "developer_options_sidebar_item",
+      "symbol": "DEVELOPER_OPTIONS_SIDEBAR_ITEM",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "developer_options_panel",
+      "symbol": "DEVELOPER_OPTIONS_PANEL",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "load_source_maps",
+      "symbol": "LOAD_SOURCE_MAPS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "build_overrides",
+      "symbol": "BUILD_OVERRIDES",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "dev_overrides",
+      "symbol": "DEV_OVERRIDES",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "premium_type_override",
+      "symbol": "PREMIUM_TYPE_OVERRIDE",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "survey_override",
+      "symbol": "SURVEY_OVERRIDE",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "action_triggered_survey_override",
+      "symbol": "ACTION_TRIGGERED_SURVEY_OVERRIDE",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "change_log_override",
+      "symbol": "CHANGE_LOG_OVERRIDE",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "change_log_clear",
+      "symbol": "CHANGE_LOG_CLEAR",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "force_canary_api",
+      "symbol": "FORCE_CANARY_API",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "ad_override",
+      "symbol": "AD_OVERRIDE",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "only_show_preview_app_collections",
+      "symbol": "ONLY_SHOW_PREVIEW_APP_COLLECTIONS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "disable_app_collections_cache",
+      "symbol": "DISABLE_APP_COLLECTIONS_CACHE",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "discord_stats_popout",
+      "symbol": "DISCORD_STATS_POPOUT",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "enable_tabs_experience",
+      "symbol": "ENABLE_TABS_EXPERIENCE",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "logging",
+      "symbol": "LOGGING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "gateway_logs",
+      "symbol": "GATEWAY_LOGS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "overlay_rpc_logs",
+      "symbol": "OVERLAY_RPC_LOGS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "analytics_logs",
+      "symbol": "ANALYTICS_LOGS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "keyboard_mismatches",
+      "symbol": "KEYBOARD_MISMATCHES",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "request_tracing",
+      "symbol": "REQUEST_TRACING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "keep_popouts_open",
+      "symbol": "KEEP_POPOUTS_OPEN",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "quest_logging",
+      "symbol": "QUEST_LOGGING",
+      "decision": "remove",
+      "reason": "Promotion ou personnalisation décorative hors du périmètre Focus.",
+      "effect": "Composant absent du rendu ; aucun gain global chiffré."
+    },
+    {
+      "key": "design_tools",
+      "symbol": "DESIGN_TOOLS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "css_debugging",
+      "symbol": "CSS_DEBUGGING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "layout_debugging",
+      "symbol": "LAYOUT_DEBUGGING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "layout_debugging_horizontal_spacing",
+      "symbol": "LAYOUT_DEBUGGING_HORIZONTAL_SPACING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "layout_debugging_vertical_spacing",
+      "symbol": "LAYOUT_DEBUGGING_VERTICAL_SPACING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "highlight_mana_components",
+      "symbol": "HIGHLIGHT_MANA_COMPONENTS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "highlight_mana_text",
+      "symbol": "HIGHLIGHT_MANA_TEXT",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "highlight_mana_text_overrides",
+      "symbol": "HIGHLIGHT_MANA_TEXT_OVERRIDES",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "highlight_void_components",
+      "symbol": "HIGHLIGHT_VOID_COMPONENTS",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "axe_auditing",
+      "symbol": "AXE_AUDITING",
+      "decision": "remove",
+      "reason": "Outils internes de développement du client.",
+      "effect": "Entrée retirée ; les outils utiles de diagnostic restent accessibles."
+    },
+    {
+      "key": "utility_section",
+      "symbol": "UTILITY_SECTION",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "developer_sidebar_item",
+      "symbol": "DEVELOPER_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "developer_panel",
+      "symbol": "DEVELOPER_PANEL",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "developer_category",
+      "symbol": "DEVELOPER_CATEGORY",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "developer_mode",
+      "symbol": "DEVELOPER_MODE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "application_test_mode",
+      "symbol": "APPLICATION_TEST_MODE",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    },
+    {
+      "key": "logout_sidebar_item",
+      "symbol": "LOGOUT_SIDEBAR_ITEM",
+      "decision": "keep",
+      "reason": "Fonction utilisateur ou structure de navigation nécessaire ; aucune nuisance démontrée.",
+      "effect": "Rendu natif conservé dans la navigation Focus."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "identifier": "discord-presentation",
+  "description": "Only bounded presentation reports and local hide requests; no filesystem, shell, settings reads, events or window access.",
+  "webviews": ["discord"],
+  "local": false,
+  "remote": { "urls": ["https://discord.com/*"] },
+  "permissions": ["allow-bridge-ready", "allow-bridge-hide", "allow-bridge-metrics", "allow-bridge-unread"]
+}

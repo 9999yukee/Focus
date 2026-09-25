@@ -1,0 +1,12 @@
+{
+  "identifier": "shell",
+  "description": "Local shell only. No window-wide grants: Discord shares the window.",
+  "webviews": ["shell"],
+  "local": true,
+  "permissions": [
+    "core:event:allow-listen", "core:event:allow-unlisten", "core:window:allow-start-dragging",
+    "allow-load-settings", "allow-save-settings", "allow-set-view", "allow-window-action",
+    "allow-navigate-discord", "allow-restore-hidden", "allow-open-hidden", "allow-sample-performance",
+    "allow-set-monitor", "allow-export-benchmark", "allow-get-status"
+  ]
+}

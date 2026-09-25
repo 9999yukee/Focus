@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-restore-hidden"
+description = "Enables the restore_hidden command without any pre-configured scope."
+commands.allow = ["restore_hidden"]
+
+[[permission]]
+identifier = "deny-restore-hidden"
+description = "Denies the restore_hidden command without any pre-configured scope."
+commands.deny = ["restore_hidden"]

@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-bridge-hide"
+description = "Enables the bridge_hide command without any pre-configured scope."
+commands.allow = ["bridge_hide"]
+
+[[permission]]
+identifier = "deny-bridge-hide"
+description = "Denies the bridge_hide command without any pre-configured scope."
+commands.deny = ["bridge_hide"]

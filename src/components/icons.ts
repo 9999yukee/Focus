@@ -1,0 +1,23 @@
+const paths: Record<string, string> = {
+  focus: '<path d="M5 20V4h14M5 11h11"/>',
+  chat: '<path d="M5 5h14v11H9l-4 4V5Z"/><path d="M9 9h6m-6 3h4"/>',
+  hidden: '<path d="m3 3 18 18M10.6 10.6a2 2 0 0 0 2.8 2.8M7 6.6A13 13 0 0 1 12 5c6 0 10 7 10 7a20 20 0 0 1-4.1 4.5M5 8a24 24 0 0 0-3 4s4 7 10 7a13 13 0 0 0 3.2-.5"/>',
+  performance: '<path d="M3 17h3l3-10 5 13 3-9h4M3 4v16h18"/>',
+  settings: '<path d="M12 3v3m0 12v3M3 12h3m12 0h3M5.6 5.6l2.1 2.1m8.6 8.6 2.1 2.1m0-12.8-2.1 2.1m-8.6 8.6-2.1 2.1"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>',
+  account: '<circle cx="12" cy="8" r="3"/><path d="M5 21v-3a7 7 0 0 1 14 0v3"/>',
+  audio: '<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M6 10v2a6 6 0 0 0 12 0v-2m-6 8v3m-3 0h6"/>',
+  notifications: '<path d="M5 16h14l-2-3V8a5 5 0 0 0-10 0v5l-2 3Zm5 3a2 2 0 0 0 4 0"/>',
+  privacy: '<path d="m12 3 8 3v6c0 5-8 9-8 9s-8-4-8-9V6l8-3Z"/><path d="m9 12 2 2 4-4"/>',
+  appearance: '<circle cx="12" cy="12" r="9"/><path d="M12 3v18"/><path d="M12 3a9 9 0 0 1 0 18Z" fill="currentColor" stroke="none"/>',
+  arrow: '<path d="m9 5 7 7-7 7"/>',
+  back: '<path d="m14 5-7 7 7 7M7 12h14"/>',
+  external: '<path d="M14 3h7v7m0-7L10 14M10 5H4v15h15v-6"/>',
+  check: '<path d="m5 12 4 4L19 6"/>',
+  minus: '<path d="M5 12h14"/>',
+  square: '<rect x="5" y="5" width="14" height="14"/>',
+  close: '<path d="m6 6 12 12M6 18 18 6"/>',
+  reload: '<path d="M20 7v5h-5M4 17v-5h5"/><path d="M6 6a8 8 0 0 1 14 6M4 12a8 8 0 0 0 14 6"/>',
+  info: '<circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v.1"/>',
+  bolt: '<path d="m13 2-8 12h6l-1 8 9-13h-7l1-7Z"/>',
+};
+export function icon(name: string, size = 20): string { return `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name] ?? paths.info}</svg>`; }

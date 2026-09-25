@@ -1,0 +1,27 @@
+[package]
+name = "focus"
+version = "0.1.0"
+description = "A quiet Windows shell for Discord"
+authors = ["Focus contributors"]
+edition = "2021"
+rust-version = "1.88"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "=2.11.6", features = ["tray-icon", "unstable"] }
+tauri-plugin-single-instance = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+log = "0.4"
+
+[target.'cfg(windows)'.dependencies]
+webview2-com = "=0.38.2"
+windows = { version = "0.61", features = ["Win32_Foundation", "Win32_System_Diagnostics_ToolHelp", "Win32_System_ProcessStatus", "Win32_System_Threading", "Win32_System_SystemInformation", "Win32_UI_Shell", "Win32_UI_WindowsAndMessaging"] }
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
+strip = true
+panic = "abort"
