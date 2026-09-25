@@ -34,8 +34,8 @@ for (const file of ['media/MediaResourceManager.ts', 'settings/types.ts', 'perfo
     await mkdir(dirname(join(plugin, 'shared', file)), { recursive: true });
     await cp(join(root, 'src', file), join(plugin, 'shared', file));
 }
-const pnpm = join(process.env.APPDATA, 'npm/node_modules/pnpm/bin/pnpm.cjs');
-if (!existsSync(join(source, 'node_modules/.modules.yaml'))) run(process.execPath, [pnpm, 'install', '--frozen-lockfile']);
+const pnpm = process.platform === 'win32' ? 'pnpm.cmd' : 'pnpm';
+if (!existsSync(join(source, 'node_modules/.modules.yaml'))) run(pnpm, ['install', '--frozen-lockfile']);
 run(process.execPath, [join(source, 'node_modules/typescript/bin/tsc'), '--noEmit']);
 run(process.execPath, ['scripts/build/build.mjs', '--standalone', '--disable-updater'], {
     env: { ...process.env, VENCORD_HASH: upstream.revision.slice(0, 7), VENCORD_REMOTE: 'Vendicated/Vencord' }
