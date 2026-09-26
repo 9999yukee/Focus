@@ -9,6 +9,8 @@ describe('Focus desktop preferences and native settings layout', () => {
     it('keeps the native Discord settings layout enabled by default', () => {
         expect(normalize(undefined).compactSettings).toBe(false);
         expect(normalize(undefined).theme).toBe('discord');
+        expect(normalize({ theme: 'black', compactSettings: true }).compactSettings).toBe(false);
+        expect(normalize({ theme: 'black', compactSettings: true }).theme).toBe('discord');
     });
     it('rejects invalid identities and unsafe selector content, deduplicates by kind', () => {
         const value = normalize({ hidden: [

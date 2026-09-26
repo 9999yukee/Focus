@@ -3,6 +3,7 @@ export type HiddenKind = 'server' | 'conversation' | 'friend';
 export type FocusTheme = 'discord' | 'black' | 'gray' | 'white';
 export interface HiddenItem { id: string; kind: HiddenKind; label: string }
 export interface FocusPreferences {
+    schemaVersion: number;
     theme: FocusTheme;
     density: 'compact' | 'comfortable';
     reduceMotion: boolean;
@@ -19,7 +20,7 @@ export interface FocusPreferences {
     hidden: HiddenItem[];
 }
 export const defaults: FocusPreferences = {
-    theme: 'discord', density: 'compact', reduceMotion: true, showAvatars: true,
+    schemaVersion: 2, theme: 'discord', density: 'compact', reduceMotion: true, showAvatars: true,
     animatedAvatars: false, animatedEmoji: false, showEmbeds: true, showStickers: true,
     pauseOffscreenMedia: true, autoplayVideo: false, backgroundMode: 'minimum',
     hidePromotions: true, compactSettings: false, hidden: []
@@ -30,6 +31,7 @@ export function validItem(item: HiddenItem): boolean {
 export function normalize(input: Partial<FocusPreferences> | undefined): FocusPreferences {
     const result = { ...defaults, hidden: [] as HiddenItem[] };
     if (!input || typeof input !== 'object') return result;
+    const legacyPreferences = typeof input.schemaVersion !== 'number';
     for (const key of Object.keys(defaults) as (keyof FocusPreferences)[]) {
         if (typeof defaults[key] === 'boolean' && typeof input[key] === 'boolean')
             (result as unknown as Record<string, unknown>)[key] = input[key];
@@ -37,6 +39,7 @@ export function normalize(input: Partial<FocusPreferences> | undefined): FocusPr
     if (['discord', 'black', 'gray', 'white'].includes(input.theme!)) result.theme = input.theme! as FocusTheme;
     if (['compact', 'comfortable'].includes(input.density!)) result.density = input.density!;
     if (['minimum', 'balanced'].includes(input.backgroundMode!)) result.backgroundMode = input.backgroundMode!;
+    if (legacyPreferences) { result.theme = 'discord'; result.compactSettings = false; }
     const seen = new Set<string>();
     for (const item of Array.isArray(input.hidden) ? input.hidden : []) {
         if (!item || !validItem(item) || seen.has(`${item.kind}:${item.id}`)) continue;
